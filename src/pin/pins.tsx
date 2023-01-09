@@ -15,7 +15,7 @@ const pinStylegen = {
   fill: '#0fa893',
   stroke: 'none'
 };
-
+ 
 export function Pincategorygen({size = 30}) {
   return (
     <svg height={size} viewBox="0 0 100 100" style={pinStylegen}>
