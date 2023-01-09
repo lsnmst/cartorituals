@@ -11,14 +11,22 @@ import SELF from './data/self.json';
 import { Pincategorycosmo, Pincategorycontrap, Pincategorycartes, Pincategoryself, Pincategorygen } from './pin/pins.tsx';
 
 
-import Map, { Source, Layer, FullscreenControl, Marker, Popup } from "react-map-gl";
+import Map, { Source, Layer, FullscreenControl, Marker, Popup, FlyToInterpolator, NavigationControl } from "react-map-gl";
+import mapboxgl from 'mapbox-gl';
 import {
   clusterLayer, clusterCountLayer, unclusteredPointLayer,
   daedata, daestyle
 } from "./layers.ts";
+import ReactMapGL from 'react-map-gl';
 import "mapbox-gl/dist/mapbox-gl.css";
 import Typography from '@mui/material/Typography';
 import Divider from '@mui/material/Divider';
+
+// The following is required to stop "npm build" from transpiling mapbox code.
+// notice the exclamation point in the import.
+// @ts-ignore
+// eslint-disable-next-line import/no-webpack-loader-syntax, import/no-unresolved
+mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
 
 
 function App() {
@@ -166,7 +174,7 @@ function App() {
                   {popupInfo.sign1L} <br />
                   {popupInfo.sign2L} <br />
                   {popupInfo.sign3L} <br />
-                  <div style={{lineHeight:0.9}} dangerouslySetInnerHTML={{ __html: popupInfo.category }} />
+                  <div style={{ lineHeight: 0.9 }} dangerouslySetInnerHTML={{ __html: popupInfo.category }} />
                 </div>
                 {/* {popupInfo.city}, {popupInfo.state} |{' '}
                 <a
