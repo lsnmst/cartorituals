@@ -62,7 +62,7 @@ export default function About() {
               -
             </Typography>
             <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-             The project initiated to gather resources from the workshop 'Collective Rituals in Cartography' organised in March 2023 at the Design Academy of Eindhoven.  
+             The project initiated to collect resources from the workshop 'Collective Rituals in Cartography' organised in March 2023 at the Design Academy of Eindhoven.  
             </Typography>
             <Typography id="modal-modal-description" sx={{ mt: 2 }}>
             </Typography>
