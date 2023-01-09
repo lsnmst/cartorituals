@@ -179,6 +179,17 @@ code {
   border-radius: 8px !important;
   left: 15px !important;
 }
+.css-1ujsas3 {
+  font-family: 'VT323', monospace !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.2em !important;
+  color: #e4e7e4 !important;
+  background-color: rgb(39, 38, 38) !important;
+  z-index: 999 !important;
+  border-radius: 8px !important;
+  left: 15px !important;
+}
 .css-78trlr-MuiButtonBase-root-MuiIconButton-root {
   margin-left: 90% !important;
 }
