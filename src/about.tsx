@@ -50,7 +50,7 @@ export default function About() {
               <Close />
             </IconButton>
             <Typography id="modal-modal-title-title" variant="h6" component="h2">
-              Collective Rituals in Cartography
+              Collective Rituals in Cartography *(attempted title)
             </Typography>
             <Typography id="modal-modal-description" sx={{ mt: 2 }}>
               Intro here
