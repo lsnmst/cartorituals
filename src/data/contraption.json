@@ -1,0 +1,36 @@
+[
+    {
+        "city": "The embroideries of Lucie Kamusokera",
+        "state": "Lubero Territory, North Kivu Province, Democratic Republic of the Congo",
+        "sign1L": "󶜡 󱸲",
+        "sign2L": "󻸥 󷈅",
+        "sign3L": null,
+        "color": "#0fa893",
+        "category": "contrivance",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://pbs.twimg.com/media/FiGPQS6XkAQ7Lr8?format=jpg",
+        "image": null,
+        "description": "Text here",
+        "latitude": -0.1745792555923314, 
+        "longitude": 29.210371931182998
+    },
+    {
+        "city": "The envisioned forests of the Awajún communities of Cocoashi",
+        "state": "El Cenepa District, Condorcanqui Province, Peru",
+        "sign1L": "󶜡 󱸲",
+        "sign2L": "󻸥 󷈅",
+        "sign3L": null,
+        "color": "#0fa893",
+        "category": "contrivance",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://ojo-publico.com/sites/default/files/inline-images/Peque%C3%B1os%20defensores%201-%20L.Searles%20-%20OjoP%C3%BAblico_0.jpg",
+        "image": null,
+        "description": "Text here",
+        "latitude": -3.8119871058563577, 
+        "longitude": -78.31274229369681 
+    }
+]

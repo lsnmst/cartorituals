@@ -1,0 +1,268 @@
+body {
+  margin: 0;
+  font-family: 'Space Mono', monospace, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(39, 38, 38);
+  overflow: auto !important;
+  overflow-y: scroll;
+  overflow-x: hidden !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0,0,0,0.1);
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.1);
+	background-color: #e4e7e4;
+}
+::-webkit-scrollbar {
+	width: 10px;
+	background-color: #e4e7e4;
+}
+::-webkit-scrollbar-thumb {
+	background-color: rgb(39, 38, 38);
+	border: 1px solid rgb(39, 38, 38);
+}
+
+.mapboxgl-ctrl-attrib-inner {
+  display: none;
+}
+
+.mapboxgl-ctrl-bottom-left {
+  display: none;
+}
+
+.mapboxgl-map {
+  border: 10px solid rgb(39, 38, 38);
+  background: rgb(39, 38, 38);
+  max-height: 90vh;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.welcome {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 0.95em;
+  font-weight: 300;
+  margin: auto;
+  position: fixed;
+  top: 8%;
+  left: 50%;
+  -ms-transform: translate(-50%, -80%);
+  transform: translate(-50%, -80%);
+  z-index: 998 !important;
+}
+
+.title-container {
+  max-height: 6vh;
+  height: 6vh;
+  position: relative;
+  margin: auto;
+  z-index: 998 !important;
+}
+
+@font-face {
+  font-family: "SuttonSignWritingLine";
+  src:
+    local('SuttonSignWritingLine'),
+    url('https://unpkg.com/@sutton-signwriting/font-ttf@1.0.0/font/SuttonSignWritingLine.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "SuttonSignWritingFill";
+  src:
+    local('SuttonSignWritingFill'),
+    url('https://unpkg.com/@sutton-signwriting/font-ttf@1.0.0/font/SuttonSignWritingFill.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "SuttonSignWritingOneD";
+  src:
+    local('SuttonSignWritingOneD'),
+    url('https://unpkg.com/@sutton-signwriting/font-ttf@1.0.0/font/SuttonSignWritingOneD.ttf') format('truetype');
+}
+
+.title {
+  font-family: 'SuttonSignWritingLine', 'VT323', monospace !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.40em;
+  line-height: 0.8;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #e4e7e4;
+  margin: 0;
+  position: absolute;
+  width: 12vh;
+  top: 20%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: rgb(39, 38, 38);
+  border-radius: 25px;
+  padding: 18px;
+}
+
+.signL {
+  font-family: 'SuttonSignWritingLine', 'VT323', monospace !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 5px;
+  width: fit-content;
+  height: fit-content;
+}
+.card{
+  overflow: auto;
+  z-index: 990;
+}
+.cardTitle{
+  font-family: 'VT323', monospace !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 3em;
+  line-height: 0.8;
+  letter-spacing: 1px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+.cardsubTitle{
+  font-family: 'VT323', monospace !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 0.55em ;
+  line-height: 0.8;
+  letter-spacing: 1px;
+  margin-top: 10px;
+}
+.cardContent{
+  font-family: 'Space Mono', monospace !important;
+  font-weight: 800;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.1em ;
+  line-height: 1.25em;
+  letter-spacing: 1px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding: 15px;
+}
+
+.buttons {
+  -ms-transform: translate(0%, -100%);
+  transform: translate(0%, -100%);
+  float: left;
+  position: relative;
+  z-index: 999;
+  display: flex;
+}
+
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  font-family: 'VT323', monospace !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.2em !important;
+  color: #e4e7e4 !important;
+  background-color: rgb(39, 38, 38) !important;
+  z-index: 999 !important;
+  border-radius: 8px !important;
+  left: 15px !important;
+}
+.css-78trlr-MuiButtonBase-root-MuiIconButton-root {
+  margin-left: 90% !important;
+}
+.css-1wnsr1i {
+  overflow: auto;
+  top: 45% !important;
+  left: 22% !important;
+  height: 75vh;
+  font-family: 'Space Mono', monospace !important;
+  box-shadow: none !important;
+  --mask:
+    linear-gradient(#000 0 0) 50%/calc(100% - 9.25px) calc(100% - 9.25px) no-repeat,
+    radial-gradient(farthest-side, #000 98%, #0000) 0 0/10px 10px round;
+  -webkit-mask: var(--mask);
+  mask: var(--mask);
+  border: 10px solid rgb(39, 38, 38) !important;
+}
+
+.mapboxgl-popup {
+  display: block !important;
+}
+
+.mapboxgl-popup-content {
+  background: none !important;
+  height: 100% !important;
+  overflow-y: auto !important;
+  touch-action: pan-y !important;
+  background-color: white !important;
+}
+
+.mapboxgl-popup-tip {
+  display: none;
+}
+
+.mapboxgl-popup.mapboxgl-popup-anchor-center {
+  transform: none !important;
+  width: 500px !important;
+  max-width: 600px !important;
+  height: 80vh;
+  top: 2vh;
+  left: 2vw;
+  z-index: 999;
+  background-color: hotpink !important;
+  box-shadow: none !important;
+  --mask:
+    linear-gradient(#000 0 0) 50%/calc(100% - 9.25px) calc(100% - 9.25px) no-repeat,
+    radial-gradient(farthest-side, #000 98%, #0000) 0 0/10px 10px round;
+  -webkit-mask: var(--mask);
+  mask: var(--mask);
+  border: 10px solid rgb(39, 38, 38) !important;
+}
+
+.MuiTypography-h6 {
+  font-family: 'Space Mono', monospace !important;
+}
+#modal-modal-title-title {
+  font-weight: 900 !important;
+  line-height: 1.25em !important;
+  text-transform: uppercase !important;
+}
+p.MuiTypography-body1 {
+  font-family: 'Space Mono', monospace !important;
+  font-weight: 800;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 0.8em ;
+  line-height: 1.35em;
+  letter-spacing: 1px; 
+}
+
+@media only screen and (max-width: 1000px) {
+  .mapboxgl-ctrl-top-right {
+    display: none;
+  }
+  .mapboxgl-ctrl-bottom-right {
+    display: none;
+  }
+  .css-1wnsr1i {
+    top: 48% !important;
+    left: 50% !important;
+    max-width: 60% !important;
+  }
+  .mapboxgl-popup.mapboxgl-popup-anchor-center{
+    width: 800px !important;
+    max-width: 90% !important;
+  }
+}
