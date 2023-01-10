@@ -16,6 +16,16 @@ code {
     monospace;
 }
 
+a:link {
+  color: rgb(65, 65, 65);
+}
+a:hover {
+  color: hotpink;
+}
+a:visited {
+  color: rgb(102, 102, 102);
+}
+
 ::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0,0,0,0.1);
   -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.1);
@@ -157,6 +167,18 @@ code {
   margin-top: 20px;
   margin-bottom: 30px;
   padding: 15px;
+}
+.infoContent{
+  font-family: 'Space Mono', monospace !important;
+  font-weight: 800;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1em ;
+  line-height: 1.1em;
+  letter-spacing: 1px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
 }
 
 .buttons {

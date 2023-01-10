@@ -196,6 +196,13 @@ function App() {
 
               <iframe controls width={"99%"} height={popupInfo.ratioCover} src={popupInfo.videoCover} frameborder="0" allow=" encrypted-media; picture-in-picture" allowFullScreen />
 
+              <Divider light />
+              <div className="infoContent">LANGUAGE : {popupInfo.language}</div>
+              <div className="infoContent">PARTICIPATION LEVEL : {popupInfo.participationLevel}</div>
+              <div className="infoContent">DELIVERABLES : <p dangerouslySetInnerHTML={{ __html: popupInfo.deliverables }} /></div>
+              <div className="infoContent">SCALE : {popupInfo.scale}</div>
+              <div className="infoContent">DATA AND INFORMATION RIGHTS OVER CULTURE, CUSTOMARY LAW, ARTS AND CRAFTS, HERITAGE, BIODIVERSITY, FOLKLORE, AND NATIVE TITLE : {popupInfo.right}</div>
+
             </div>
           </Popup>
         )}

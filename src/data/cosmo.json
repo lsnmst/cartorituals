@@ -13,6 +13,11 @@
         "imageCover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Santa_Cruz_Pachacuti_Yamqui_Pachamama.jpg/547px-Santa_Cruz_Pachacuti_Yamqui_Pachamama.jpg",
         "image": null,
         "description": "Text here",
+        "language": "Spanish",
+        "scale": "10^24+", 
+        "participationLevel": "unknown",
+        "right": "unknown", 
+        "deliverables": "-",
         "latitude": -14.638601904166563, 
         "longitude": -70.9997507512077
     }

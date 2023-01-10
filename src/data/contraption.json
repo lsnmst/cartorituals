@@ -12,7 +12,12 @@
         "video": null,
         "imageCover": "https://pbs.twimg.com/media/FiGPQS6XkAQ7Lr8?format=jpg",
         "image": null,
-        "description": "Text here",
+        "description": "Text here",        
+        "language": "Nande, French",
+        "scale": "10^3", 
+        "participationLevel": "Joint processing with the community",
+        "right": "unknown", 
+        "deliverables": "-",
         "latitude": -0.1745792555923314, 
         "longitude": 29.210371931182998
     },
@@ -30,6 +35,11 @@
         "imageCover": "https://ojo-publico.com/sites/default/files/inline-images/Peque%C3%B1os%20defensores%201-%20L.Searles%20-%20OjoP%C3%BAblico_0.jpg",
         "image": null,
         "description": "Text here",
+        "language": "Jívaras, Spanish",
+        "scale": "10^2", 
+        "participationLevel": "Community controls the process",
+        "right": "unknown", 
+        "deliverables": "-",
         "latitude": -3.8119871058563577, 
         "longitude": -78.31274229369681 
     }

@@ -13,6 +13,11 @@
         "imageCover": "https://www.alessandromusetta.com/geo/tiles/tingua/data/20221127/317031517_826019005182511_1247781363689323470_n.jpg",
         "image": null,
         "description": "Text here",
+        "language": "Brazilian Portuguese",
+        "scale": "10^3", 
+        "participationLevel":"The community has delegated power to design",
+        "right":"Peer Production Licence P2P - Attribution, ShareAlike, Non Capitalist", 
+        "deliverables":"<ul><li><a href=\"https://chiroxiphiacaudata.github.io/comunidados/\" target=\"_blank\"> Online platform Comunidados</a></li></ul>",
         "latitude": -22.591441897030833, 
         "longitude": -43.41528282741802
     }
