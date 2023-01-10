@@ -20,5 +20,27 @@
         "deliverables": "-",
         "latitude": 2.1429167366470865,
         "longitude": 31.47511301252816
+    },
+    {
+        "city": "Drawing the customary tenureship map of the Loonga Ilumbe community",
+        "state": "Bokatola sector, Ingende Territory, Équateur Province, Democratic Republic of the Congo",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://pbs.twimg.com/media/FXIwvYmXoAAtvrQ?format=jpg",
+        "image": null,
+        "description": "Text here",
+        "language": "Mongo, Lotshua, French",
+        "scale": "10^3", 
+        "participationLevel":"Community controls the process",
+        "right":"unknown", 
+        "deliverables":"-",
+        "latitude": -0.6292830281, 
+        "longitude": 18.80319151
     }
 ]
