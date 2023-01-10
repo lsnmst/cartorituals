@@ -11,6 +11,7 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import Close from '@mui/icons-material/Close';
 import IconButton from '@mui/material/IconButton';
+import Divider from '@mui/material/Divider';
  
 const style = {
   position: 'absolute' as 'absolute',
@@ -50,7 +51,7 @@ export default function About() {
               <Close />
             </IconButton>
             <Typography id="modal-modal-title-title" variant="h6" component="h2">
-              Collective Rituals in Cartography *(attempted title)
+              Collective Rituals in Cartography *(attempted title) <br /><br /><Divider light /><br />The visual archive
             </Typography>
             <Typography id="modal-modal-description" sx={{ mt: 2 }}>
               Intro here

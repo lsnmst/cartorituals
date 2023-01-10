@@ -194,7 +194,7 @@ function App() {
               <div className="cardContent" dangerouslySetInnerHTML={{ __html: popupInfo.description }} />
               <img style={{ position: "relative", top: "20px", bottom: "20px" }} width="100%" src={popupInfo.image} />
 
-              <iframe controls width={"99%"} height={popupInfo.ratioCover} src={popupInfo.videoCover} frameborder="0" allow=" encrypted-media; picture-in-picture" allowFullScreen />
+              <iframe controls width={"99%"} height={popupInfo.ratioCover} src={popupInfo.videoCover} frameBorder="0" allow=" encrypted-media; picture-in-picture" allowFullScreen />
 
               <Divider light />
               <div className="infoContent">LANGUAGE : {popupInfo.language}</div>
