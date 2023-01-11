@@ -86,5 +86,27 @@
         "deliverables":"-",
         "latitude": 1.487098743785468, 
         "longitude": 31.1350995931749
+    },
+    {
+        "city": "Reviving Earth-centred customary laws, sacred natural sites, indigenous seeds, with the Tharakan People",
+        "state": "Low plains between the slopes of Mount Kenya in the west and the upper Tana River in the east, Tharaka-Nithi County, Kenya",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.gaiafoundation.org/app/uploads/2019/10/Screen-Shot-2019-10-15-at-14.05.24.png",
+        "image": "https://www.gaiafoundation.org/app/uploads/2019/10/Screen-Shot-2019-10-15-at-14.06.08.png",
+        "description": "Text here",
+        "language": "Kiitharaka, English",
+        "scale": "10^6", 
+        "participationLevel":"Community controls the process",
+        "right":"unknown", 
+        "deliverables":"-",
+        "latitude": -0.3760862994824249, 
+        "longitude": 37.80580193326578
     }
 ]
