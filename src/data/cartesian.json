@@ -155,7 +155,7 @@
     },
     {
         "city": "Listening and learning from the community (ECO - Escutando Comunidades). Teto Brasil's emergency modular shelters and social projects",
-        "state": ", Brazil",
+        "state": "Recife, Brazil",
         "sign1L": "󸣱    󸣡",
         "sign2L": "󵍙 󶉃 󵍑",
         "sign3L": " 󻺅 ",
@@ -174,5 +174,27 @@
         "deliverables":"<ul><li><a href=\"https://teto.org.br/mapa-de-direitos/\" target=\"_blank\"> Map of the rights</a></li></ul>",
         "latitude": -8.05895842958181, 
         "longitude": -34.89094140338565
+    },
+    {
+        "city": "Demarcating an indigenous area to recognise an indigenous identity. The Pankararé struggling with illegal settlers",
+        "state": "Terreiro Pankararé, Rio São Francisco, Bahia, Brazil",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": null,
+        "ratioCover": null,
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1l-qVXTCyYqoRtpkgBqTmzb-AdT1ByKIs",
+        "image": null,
+        "description": "Text here",
+        "language": "Brazilian Portuguese",
+        "scale": "10^3", 
+        "participationLevel":"The community has delegated power to design",
+        "right":"unknown", 
+        "deliverables":"-",
+        "latitude": -9.442450263014763, 
+        "longitude": -38.60018035245474
     }
 ] 
