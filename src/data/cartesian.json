@@ -196,5 +196,27 @@
         "deliverables":"-",
         "latitude": -9.442450263014763, 
         "longitude": -38.60018035245474
+    },
+    {
+        "city": "Documenting history before it’s too late. Mapping Britain’s detention camps in Kenya",
+        "state": "Nyeri county, Mweru Works Camp and Aguthi Works Camp, Kenya",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": "https://www.youtube.com/embed/aEfjz6V_vEI",
+        "ratioCover": "250",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1Ium7t9jY1JNeoTLYQLedpg60J-vtfl_p",
+        "image": null,
+        "description": "Text here",
+        "language": "English",
+        "scale": "10^6", 
+        "participationLevel":"Community receives information",
+        "right":"unknown", 
+        "deliverables":"<ul><li><a href=\"https://africandigitalheritage.org/reconstructing-mau-mau-detention-camps-towards-a-more-truthful-account-of-british-colonialism/\" target=\"_blank\">Mapping & Reconstructing Detention Camps / Villages From The Emergency Period</a></li><li><a href=\"https://tayianachao.carto.com/viz/86e6eaef-94f8-47a4-a348-14783294a3b8/public_map\" target=\"_blank\">Mau Mau Detention Camps - Kenya, 1956</a></li></ul>",
+        "latitude": -0.5596956807373754, 
+        "longitude": 37.04324377201836
     }
 ] 
