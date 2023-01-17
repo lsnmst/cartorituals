@@ -196,5 +196,27 @@
         "deliverables":"-",
         "latitude": -3.592457079507409, 
         "longitude": -75.0005596692418
+    },
+    {
+        "city": "Rewriting the indigenous geography books of the Parque do Xingu as research and cultural production grounded in one's own culture",
+        "state": "Indigenous park of Xingu and Indigenous lands of Kapot/Jarina and Mekrangotire, Brazil",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1JuN5oKHHUB14UbssBThfji3J3iGHhaD1",
+        "image": "https://drive.google.com/uc?export=view&id=1MumeiDtNODXCbymHDR-7ypbQp4yD41M4",
+        "description": "Text here",
+        "language": "Brazilian Portuguese",
+        "scale": "10^4", 
+        "participationLevel":"The community has delegated power to design",
+        "right":"MEC/SEF Coordenação Geral de Apoio às Escolas Indígenas - ISA Instituto Socioambiental", 
+        "deliverables":"<ul><li><a href=\"https://lemad.fflch.usp.br/sites/lemad.fflch.usp.br/files/geografia%20ind%C3%ADgena.pdf\" target=\"_blank\">Geografia Indígena, Parque Indígena do Xingu</a></li></ul>",
+        "latitude": -11.2734,
+        "longitude": -53.1848 
     }
 ]
