@@ -218,5 +218,27 @@
         "deliverables":"<ul><li><a href=\"https://africandigitalheritage.org/reconstructing-mau-mau-detention-camps-towards-a-more-truthful-account-of-british-colonialism/\" target=\"_blank\">Mapping & Reconstructing Detention Camps / Villages From The Emergency Period</a></li><li><a href=\"https://tayianachao.carto.com/viz/86e6eaef-94f8-47a4-a348-14783294a3b8/public_map\" target=\"_blank\">Mau Mau Detention Camps - Kenya, 1956</a></li></ul>",
         "latitude": -0.5596956807373754, 
         "longitude": 37.04324377201836
+    },
+    {
+        "city": "Migration trajectory in the residency of a Jodï woman",
+        "state": "Jungle, savannah and mountainous areas in Amazonas and Bolivar states, Venezuela",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": null,
+        "ratioCover": null,
+        "video": null,
+        "imageCover": "http://journals.openedition.org/ethnoecologie/docannexe/image/2670/img-2.jpg",
+        "image": null,
+        "description": "Text here",
+        "language": "Sáliva, E'ñepá, Spanish",
+        "scale": "10^6", 
+        "participationLevel":"The community has delegated power to design",
+        "right":"unknown", 
+        "deliverables":"-",
+        "latitude": 6.329193355986146, 
+        "longitude": -65.37641035448117
     }
 ] 

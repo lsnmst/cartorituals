@@ -174,5 +174,27 @@
         "deliverables":"-",
         "latitude": -1.3766531092425924, 
         "longitude": -48.46418867268227
+    },
+    {
+        "city": "Ethno-cartography of impacts from oil exploitation",
+        "state": "Basin of the Corrientes river, region of Loreto, Peru",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1TSPHidOVl514YK-YHFR-73bO9NhLd3tq",
+        "image": "https://drive.google.com/uc?export=view&id=1iI5pfuP69GCkaLlXAw2-WWx7pJLNnKTN",
+        "description": "Text here",
+        "language": "Spanish, Jivaro, Urarina",
+        "scale": "10^4", 
+        "participationLevel":"The community has delegated power to design",
+        "right":"unknown, according to a public statement: 'Information belongs to the people and it is the people who decide with whom they share it'.", 
+        "deliverables":"-",
+        "latitude": -3.592457079507409, 
+        "longitude": -75.0005596692418
     }
 ]

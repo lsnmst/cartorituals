@@ -42,5 +42,27 @@
         "deliverables": "-",
         "latitude": -4.7837276480403865, 
         "longitude": -75.22608162705397
+    },
+    {
+        "city": "Representing cosmovision to reveal the unique peoples-land ties and evidence of the native land rights of the Jodï y Eñepa peoples",
+        "state": "Sur del Estado Bolívar, Guayana venezolana, Venezuela",
+        "sign1L": "󶷥 󱳓 󸗧",
+        "sign2L": "󸗳 󱲋 󶷥",
+        "sign3L": null,
+        "color": "#ae4059",
+        "category": "cosmology",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://journals.openedition.org/ethnoecologie/docannexe/image/2670/img-3.jpg",
+        "image": null,
+        "description": "Text here",
+        "language": "Sáliva, E'ñepá, Spanish",
+        "scale": "10^24+", 
+        "participationLevel": "unknown",
+        "right": "unknown", 
+        "deliverables": "-",
+        "latitude": 5.42877, 
+        "longitude": -65.59620
     }
 ]
