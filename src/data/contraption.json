@@ -64,5 +64,27 @@
         "deliverables": "-",
         "latitude": 24.37530492431559, 
         "longitude": 27.08927369018004
+    },
+    {
+        "city": "Counting whales",
+        "state": "Golfo Nuevo whales breeding area, Península Valdés, Argentina",
+        "sign1L": "󶜡 󱸲",
+        "sign2L": "󻸥 󷈅",
+        "sign3L": null,
+        "color": "#0fa893",
+        "category": "contrivance",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.researchgate.net/profile/Peter-Fretwell-2/publication/260214076/figure/fig2/AS:202838048284684@1425371767665/Several-of-the-images-could-be-interpreted-as-whale-pairs-or-as-a-mother-and-calf_W640.jpg",
+        "image": null,
+        "description": "Text here",
+        "language": "English",
+        "scale": "10^6", 
+        "participationLevel":"Community receives information",
+        "right":"Fretwell PT, Staniland IJ, Forcada J (2014) Whales from Space: Counting Southern Right Whales by Satellite. PLoS ONE 9(2): e88655. https://doi.org/10.1371/journal.pone.0088655", 
+        "deliverables":"<ul><li><a href=\"https://www.researchgate.net/publication/260214076_Whales_from_Space_Counting_Southern_Right_Whales_by_Satellite\" target=\"_blank\"> Published scientific article</a></li></ul>",
+        "latitude": -42.97637941399988,  
+        "longitude": -64.09556240107985
     }
 ]
