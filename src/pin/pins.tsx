@@ -16,7 +16,7 @@ const pinStylegen = {
   stroke: 'none'
 };
  
-export function Pincategorygen({size = 30}) {
+export function Pincategorygen({size = 25}) {
   return (
     <svg height={size} viewBox="0 0 100 100" style={pinStylegen}>
       <path d={ICONGEN} />
@@ -42,7 +42,7 @@ const pinStylecosmo = {
   stroke: 'none'
 };
 
-export function Pincategorycosmo({size = 30}) {
+export function Pincategorycosmo({size = 25}) {
   return (
     <svg height={size} viewBox="0 0 100 100" style={pinStylecosmo}>
       <path d={ICONCOSMO} />
@@ -77,7 +77,7 @@ const pinStylecontrap = {
   stroke: 'none'
 };
 
-export function Pincategorycontrap({size = 30}) {
+export function Pincategorycontrap({size = 25}) {
   return (
     <svg height={size} viewBox="0 0 100 100" style={pinStylecontrap}>
       <path d={ICONCONTRAP} />
@@ -103,7 +103,7 @@ const pinStylecartes = {
   stroke: 'none'
 };
 
-export function Pincategorycartes({size = 30}) {
+export function Pincategorycartes({size = 25}) {
   return (
     <svg height={size} viewBox="0 0 100 100" style={pinStylecartes}>
       <path d={ICONCARTES} />
@@ -124,7 +124,7 @@ const pinStyleself = {
   stroke: 'none'
 };
 
-export function Pincategoryself({size = 30}) {
+export function Pincategoryself({size = 25}) {
   return (
     <svg height={size} viewBox="0 0 100 100" style={pinStyleself}>
       <path d={ICONSELF} />

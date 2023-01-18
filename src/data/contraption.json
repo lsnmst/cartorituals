@@ -42,5 +42,27 @@
         "deliverables": "-",
         "latitude": -3.8119871058563577, 
         "longitude": -78.31274229369681 
+    },
+    {
+        "city": "Building the desert mental map to orientate with the 'alamat' landscape-based orientation system",
+        "state": "Abu Ballas Trail, Great Sand Sea, Egypt",
+        "sign1L": "󶜡 󱸲",
+        "sign2L": "󻸥 󷈅",
+        "sign3L": null,
+        "color": "#0fa893",
+        "category": "contrivance",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://media.springernature.com/full/springer-static/image/chp%3A10.1007%2F978-3-030-00145-2_4/MediaObjects/460072_1_En_4_Fig2_HTML.jpg?as=webp",
+        "image": "https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-030-00145-2_4/MediaObjects/460072_1_En_4_Fig1_HTML.png?as=webp",
+        "description": "Text here",
+        "language": "-",
+        "scale": "10^6", 
+        "participationLevel": "Community controls the process",
+        "right": "unknown", 
+        "deliverables": "-",
+        "latitude": 24.37530492431559, 
+        "longitude": 27.08927369018004
     }
 ]
