@@ -218,5 +218,27 @@
         "deliverables":"<ul><li><a href=\"https://lemad.fflch.usp.br/sites/lemad.fflch.usp.br/files/geografia%20ind%C3%ADgena.pdf\" target=\"_blank\">Geografia Indígena, Parque Indígena do Xingu</a></li></ul>",
         "latitude": -11.2734,
         "longitude": -53.1848 
+    },
+    {
+        "city": "A pedagogical use of agroecological mapping in the Quilombolas communities",
+        "state": "Quilombolas Cafundá Astrogilda, Camorim and Dona Bilina communities, Vargem Grande, Brazil",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://projetosertaocarioca.files.wordpress.com/2021/07/205500831_176033201207231_606838872619448972_n-3.jpg",
+        "image": null,
+        "description": "Text here",
+        "language": "Brazilian Portuguese",
+        "scale": "10^3", 
+        "participationLevel":"Community controls the process",
+        "right":"unkwnow", 
+        "deliverables":"-",
+        "latitude": -22.53912921425256, 
+        "longitude": -43.151670052456225
     }
 ]
