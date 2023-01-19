@@ -267,6 +267,12 @@ a:visited {
   border: 10px solid rgb(39, 38, 38) !important;
 }
 
+.mapboxgl-popup-close-button {
+  font-size: 30px !important;
+  position: fixed !important;
+  padding: 6px 15px !important;
+}
+
 .MuiTypography-h6 {
   font-family: 'Space Mono', monospace !important;
 }

@@ -164,10 +164,12 @@ function App() {
         {popupInfo && (
           <Popup
             anchor="center"
+            focusAfterOpen="true"
             longitude={Number(popupInfo.longitude)}
             latitude={Number(popupInfo.latitude)}
             onClose={() => setPopupInfo(null)}
           >
+
             <div className='card'>
               <Typography id="modal-modal-title" variant="h6" component="h2">
                 <div className="signL" style={{ borderColor: popupInfo.color }} >
@@ -189,10 +191,11 @@ function App() {
                 <Divider light />
                 <div className="cardsubTitle" >{popupInfo.state}</div>
               </div>
-
-              <img style={{ position: "relative", top: "20px", bottom: "20px" }} width="100%" src={popupInfo.imageCover} />
-              <div className="cardContent" dangerouslySetInnerHTML={{ __html: popupInfo.description }} />
-              <img style={{ position: "relative", top: "20px", bottom: "20px" }} width="100%" src={popupInfo.image} />
+              <div>
+                <img style={{ position: "relative", top: "20px", bottom: "20px" }} width="100%" src={popupInfo.imageCover} />
+                <div className="cardContent" dangerouslySetInnerHTML={{ __html: popupInfo.description }} />
+                <img style={{ position: "relative", top: "20px", bottom: "20px" }} width="100%" src={popupInfo.image} />
+              </div>
 
               <iframe controls width={"99%"} height={popupInfo.ratioCover} src={popupInfo.videoCover} frameBorder="0" allow=" encrypted-media; picture-in-picture" allowFullScreen />
 
