@@ -240,5 +240,27 @@
         "deliverables":"-",
         "latitude": -22.53912921425256, 
         "longitude": -43.151670052456225
+    },
+    {
+        "city": "Drawn in the earth. Strengthening rural participation through social mapping and seasonal calendars",
+        "state": "Sawaria Pani village, Madhya Pradesh, India",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2022/12/02/f006fbee-53db-4040-9d81-1238db5faf71_1669982848747.jpg",
+        "image": null,
+        "description": "Text here",
+        "language": "Hindi",
+        "scale": "10^3", 
+        "participationLevel":"The community has delegated power to design",
+        "right":"unkwnow", 
+        "deliverables":"-",
+        "latitude": 21.91573601106066, 
+        "longitude": 74.68036641998782
     }
 ]
