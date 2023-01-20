@@ -262,5 +262,27 @@
         "deliverables":"-",
         "latitude": 21.91573601106066, 
         "longitude": 74.68036641998782
+    },
+    {
+        "city": "Building a spatial diagram of the kinship among the Urak Lawoi communities of Ko Bulon Le Island เกาะบุโหลนเล",
+        "state": "Ko Bulon Le Island เกาะบุโหลนเล, Philippines",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1tw0KID-r1AGrue5hd704_b6Ae9TkoSgb",
+        "image": "https://drive.google.com/uc?export=view&id=1SIi1XPX5tOLTZUxBlYTWmiNR4I5txkdC",
+        "description": "Text here",
+        "language": "Urak Lawoi’, Malay, Thai",
+        "scale": "10^4", 
+        "participationLevel":"The community has delegated power to design",
+        "right":"unkwnow", 
+        "deliverables":"-",
+        "latitude": 6.829129311125664, 
+        "longitude": 99.53629935020619
     }
 ]
