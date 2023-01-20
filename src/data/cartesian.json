@@ -284,5 +284,27 @@
         "deliverables":"<ul><li><a href=\"https://www.nature.com/articles/s41598-022-14081-5\" target=\"_blank\">Participatory mapping identifies risk areas and environmental predictors of endemic anthrax in rural Africa</a></li></ul>",
         "latitude": 5.10448020841543, 
         "longitude": 40.82369231851183
+    },
+    {
+        "city": "Reflecting indigenous wisdom into the cultural ecological map of the Mekong Basin",
+        "state": "Chiang Saen, Chiang Khong district and Wiang Kaen, Chiang Rai province, Thailand",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": null,
+        "ratioCover": null,
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1qE6yx-ohzTHvAby1Tw_nYoPtUFciG_We",
+        "image": "https://drive.google.com/uc?export=view&id=1mrWp-aImM3G0ZSfbW1gZH1_5BHcPP-AJ",
+        "description": "Text here",
+        "language": " ",
+        "scale": "10^6", 
+        "participationLevel":"The community has delegated power to design", 
+        "right":"unknown", 
+        "deliverables":"-",
+        "latitude": 20.29343728135923, 
+        "longitude": 100.1925311207769
     }
 ] 
