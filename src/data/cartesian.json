@@ -306,5 +306,27 @@
         "deliverables":"-",
         "latitude": 20.29343728135923, 
         "longitude": 100.1925311207769
+    },
+    {
+        "city": "The failure of participation: fences in the forest",
+        "state": "Virunga forest landscape, Democratic Republic of the Congo",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": "https://gdurl.com/8uwU",
+        "ratioCover": "250",
+        "video": null,
+        "imageCover": "https://pbs.twimg.com/media/Fiewv0BWAAAQlbK?format=jpg",
+        "image": null,
+        "description": "Text here",
+        "language": "Swahili",
+        "scale": "10^3", 
+        "participationLevel":"The community has delegated power to design, but on the ground the community only receives information", 
+        "right":"unknown", 
+        "deliverables":"-",
+        "latitude": -1.1680906212783135, 
+        "longitude": 29.43233280486407
     }
 ] 
