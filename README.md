@@ -1,6 +1,6 @@
 ## RITUALS IN THE CARTOGRAPHIC PRACTICE
 
-![Cover](https:/ "cover")
+![Cover](https://github.com/lsnmst/cartorituals/blob/main/cover.png?raw=true "cover")
 
 # THE VISUAL ARCHIVE
 
