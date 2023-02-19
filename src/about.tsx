@@ -51,7 +51,7 @@ export default function About() {
               <Close />
             </IconButton>
             <Typography id="modal-modal-title-title" variant="h6" component="h2">
-              Collective Rituals in Cartography<br /><br /><Divider light /><br />The visual archive
+              RITUALS IN THE CARTOGRAPHIC PRACTICE<br /><br /><Divider light /><br />The visual archive
             </Typography>
             <Typography id="modal-modal-description" sx={{ mt: 2 }}>
               Cartography is mainly a social process. No amount of high-resolution mapping can match the credibility and legitimacy of community-led /commons-oriented social mapping.

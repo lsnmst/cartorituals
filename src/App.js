@@ -129,7 +129,7 @@ function App() {
           <path id="intermediate" d="M 50 50 C 50 250 200 500 400 500 C 600 500 750 250 750 50 " />
         </defs>
         <text>
-          <textPath startOffset="50%" dominantBaseline="middle" textAnchor="middle" xlinkHref="#intermediate">COLLECTIVE RITUALS IN CARTOGRAPHY</textPath>
+          <textPath startOffset="50%" dominantBaseline="middle" textAnchor="middle" xlinkHref="#intermediate">RITUALS IN THE CARTOGRAPHIC PRACTICE</textPath>
         </text>
       </svg>
     </div>
