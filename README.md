@@ -1,5 +1,7 @@
 ## RITUALS IN THE CARTOGRAPHIC PRACTICE
 
+![Cover](https:/ "cover")
+
 # THE VISUAL ARCHIVE
 
 Cartography is mainly a social process. No amount of high-resolution mapping can match the credibility and legitimacy of community-led /commons-oriented social mapping.
