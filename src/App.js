@@ -193,7 +193,7 @@ function App() {
               </div>
               <div>
                 <img style={{ position: "relative", top: "20px", bottom: "20px" }} width="100%" src={popupInfo.imageCover} />
-                <div className="cardContent" dangerouslySetInnerHTML={{ __html: popupInfo.description }} />
+                {/* <div className="cardContent" dangerouslySetInnerHTML={{ __html: popupInfo.description }} /> */}
                 <img style={{ position: "relative", top: "20px", bottom: "20px" }} width="100%" src={popupInfo.image} />
               </div>
 
