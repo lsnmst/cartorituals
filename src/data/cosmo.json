@@ -17,7 +17,7 @@
         "scale": "10^24+", 
         "participationLevel": "unknown",
         "right": "unknown", 
-        "deliverables": "-",
+        "deliverables":"<ul><li><a href=\"https://www.academia.edu/download/64164031/La%20historia%20del%20arte%20en%20dialogo%20con%20otras%20disciplinas%20PDF.pdf#page=120\" target=\"_blank\">Raúl Molina Otárola (2016) El sol y la luna: iconografía y representación en la cosmovisión y el arte del barroco andino</a></li></ul>",
         "latitude": -14.638601904166563, 
         "longitude": -70.9997507512077
     },
@@ -39,7 +39,7 @@
         "scale": "10^24+", 
         "participationLevel": "unknown",
         "right": "unknown", 
-        "deliverables": "-",
+        "deliverables":"<ul><li><a href=\"https://www.researchgate.net/publication/357891820_Mas_alla_de_la_herida_y_el_olvido_la_voz_memoriosa_y_su_narrativa_en_dos_documentales_de_Radio_Ucamara\" target=\"_blank\">Andrea Cabel, Más allá de la herida y el olvido: la voz memoriosa y su narrativa en dos documentales de Radio Ucamara</a></li></ul>",
         "latitude": -4.7837276480403865, 
         "longitude": -75.22608162705397
     },
@@ -61,8 +61,30 @@
         "scale": "10^24+", 
         "participationLevel": "unknown",
         "right": "unknown", 
-        "deliverables": "-",
+        "deliverables":"<ul><li>Eglee Zent, Stanford Zent (2019) Jotï community book: history, territory and life. Irwin Andrew Porter Foundation</ul></li>",
         "latitude": 5.42877, 
         "longitude": -65.59620
+    },
+    {
+        "city": "The \"Paradise of Tlaloc\", where the underworld (Tlalocan) and the earthly paradise or cosmic tree (Tamoanchan) meet",
+        "state": "Tlalocan-Tamoanchan, Teotihuacan, Mexico",
+        "sign1L": "󶷥 󱳓 󸗧",
+        "sign2L": "󸗳 󱲋 󶷥",
+        "sign3L": null,
+        "color": "#ae4059",
+        "category": "cosmology",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Tepantitla-Mountain-of-Abundance_mural.jpg",
+        "image": null,
+        "description": "Text here",
+        "language": "Totonaca, Mixteca-Zoque",
+        "scale": "10^24+", 
+        "participationLevel": "unknown",
+        "right": "unknown", 
+        "deliverables":"<ul><li><a href=\"https://d1wqtxts1xzle7.cloudfront.net/55687687/11699-22742-1-SM-libre.pdf?1517463419=&response-content-disposition=inline%3B+filename%3DLos_muertos_de_la_tierra_los_difuntos_de.pdf&Expires=1678910215&Signature=N4ZOizIRwY1Y~DPJ0C9dd~c0wseMrQYFgD~jO7tsDmvPqi3qYk3B1v3W6VE0hs8mHfg08BI36640RzpmWMHKFYK1bI7-c971EnVMHMGlDWG2qZtn72IK3Zn5GCWBVRfUmqWqnzplgrqtb4H8oPzj6VERnyRgKt9tvS2C~IJCIsaRvobnSpGZButtmQMLFIMebBUb6JH6IjuNEYNbnGD~I71i50kEXwAOBymnJODI8~s5prxjtaBTaTmfprhg0e0vF0f~5jSsia54HMBlmaBQlIteofYVU9th1GQpsBFcyjLTwU2qkoUI7ZMYgX-9oUTVsHSRdpbzwTk3FidzSyUG0A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA\" target=\"_blank\">Los muertos de la tierra: los difuntos destinados al Mictlán y al Tlalocan</a></li></ul>",
+        "latitude": 19.688981741353086,  
+        "longitude": -98.87230152665084
     }
 ]

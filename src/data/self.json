@@ -127,7 +127,7 @@
         "scale": "10^1", 
         "participationLevel":"Community controls the process",
         "right":"unknown", 
-        "deliverables":"-",
+        "deliverables":"<ul><li><a href=\"https://territorioyfeminismos.org/2018/10/25/tallereando-el-cuerpo-territorio-en-la-ucired/\" target=\"_blank\">Tallereando el cuerpo-territorio en la UCIRED</a></li></ul><ul><li><a href=\"https://miradascriticasdelterritoriodesdeelfeminismo.files.wordpress.com/2017/11/mapeando-el-cuerpo-territorio.pdf\" target=\"_blank\">Colectivo Miradas Críticas del Territorio desde el Feminismo (2017) MAPEANDO EL CUERPO-TERRITORIO, Guía metodológica para mujeres que defienden sus territorios</a></li></ul>",
         "latitude": 19.030622621070826,  
         "longitude": -98.2085135972175
     },
@@ -171,7 +171,7 @@
         "scale": "10^4", 
         "participationLevel":"The community has delegated power to design",
         "right":"unknown", 
-        "deliverables":"-",
+        "deliverables":"<ul><li><a href=\"http://novacartografiasocial.com.br/download/03-afro-religiosos-na-cidade-de-belem/\" target=\"_blank\">Nova Cartografia Social da Amazônia. Afro-religiosos na Cidade de Belém</a></li></ul>",
         "latitude": -1.3766531092425924, 
         "longitude": -48.46418867268227
     },
@@ -193,7 +193,7 @@
         "scale": "10^4", 
         "participationLevel":"The community has delegated power to design",
         "right":"unknown, according to a public statement: 'Information belongs to the people and it is the people who decide with whom they share it'.", 
-        "deliverables":"-",
+        "deliverables":"<ul><li><a href=\"https://sites.utexas.edu/participatory-mapping/files/2012/12/Wendy-Pineda.pdf\" target=\"_blank\">FECONACO, Mapeo Comunitario del territorio de los pueblos indígenas de la cuenca del río Corrientes</a></li></ul>",
         "latitude": -3.592457079507409, 
         "longitude": -75.0005596692418
     },
@@ -284,5 +284,27 @@
         "deliverables":"-",
         "latitude": 6.829129311125664, 
         "longitude": 99.53629935020619
+    },
+    {
+        "city": "Relations and practices between peoples represented in the biophysical and geographical space. The Altépetl de Cuauhtinchan Codex",
+        "state": "Cuauhtinchan, Puebla, Mexico",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1BBUfTL9m-AAIcNCLZBe9zLbHgbD-dZ0H",
+        "image": "https://drive.google.com/uc?export=view&id=1qQrXbGTJfiMOS499MvmW9vD3ru924lrQ",
+        "description": "Text here",
+        "language": "Chichimeca Jonaz",
+        "scale": "10^6", 
+        "participationLevel":"-",
+        "right":"unkwnow", 
+        "deliverables":"<ul><li><a href=\"https://biblio.juridicas.unam.mx/bjv/detalle-libro/6160-los-nahuas-y-el-libro-de-los-guardianes-y-gobernadores-de-cuauhtinchan-1519-1640-edicion-facsimilar\" target=\"_blank\">Los nahuas y el Libro de los guardianes y gobernadores de Cuauhtinchan (1519-1640). Cuauhtinchan en la historia</a></li></ul>",
+        "latitude": 18.95496435336044,  
+        "longitude": -98.0153505220746
     }
 ]

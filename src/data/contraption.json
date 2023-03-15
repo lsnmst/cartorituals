@@ -39,7 +39,7 @@
         "scale": "10^2", 
         "participationLevel": "Community controls the process",
         "right": "unknown", 
-        "deliverables": "-",
+        "deliverables":"<ul><li><a href=\"https://ojo-publico.com/3242/pequenos-defensores-pintan-contra-la-destruccion-amazonica\" target=\"_blank\">Bosques imaginados: pequeños defensores pintan contra la destrucción de la Amazonía</a></li></ul>",
         "latitude": -3.8119871058563577, 
         "longitude": -78.31274229369681 
     },
@@ -86,5 +86,27 @@
         "deliverables":"<ul><li><a href=\"https://www.researchgate.net/publication/260214076_Whales_from_Space_Counting_Southern_Right_Whales_by_Satellite\" target=\"_blank\"> Published scientific article</a></li></ul>",
         "latitude": -42.97637941399988,  
         "longitude": -64.09556240107985
+    },
+    {
+        "city": "The Afro-Colombian braids that slaves used as escape maps",
+        "state": "San Basilio de Palenque, Mahates, Colombia ",
+        "sign1L": "󶜡 󱸲",
+        "sign2L": "󻸥 󷈅",
+        "sign3L": null,
+        "color": "#0fa893",
+        "category": "contrivance",
+        "videoCover": "https://www.youtube.com/embed/XdsdktCnd6Q?t=118",
+        "ratioCover": "250",
+        "video": null,
+        "imageCover": "https://i.pinimg.com/736x/55/dc/1a/55dc1a07c36eec865c0dcc37da1c6059.jpg",
+        "image": "https://drive.google.com/uc?export=view&id=1n7N5qPTPyTjEILTsIK-9a8icCk329OTz",
+        "description": "Text here",
+        "language": "-",
+        "scale": "10^1", 
+        "participationLevel":"Community controls the process",
+        "right":" ", 
+        "deliverables":"<ul><li><a href=\"https://bibliotecadigital.univalle.edu.co/bitstream/handle/10893/17192/CB-0592507.pdf?sequence=1\" target=\"_blank\">Trenzando el territorio: cuerpos, mapas y resistencias en san basilio de palenque</a></li></ul>",
+        "latitude": 10.10532845000001, 
+        "longitude": -75.19756974160104 
     }
 ]
