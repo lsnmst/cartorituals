@@ -66,7 +66,7 @@ export default function About() {
               -
             </Typography>
             <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-              This archive was launched to gather resources from the workshop 'Rituals in the Cartographic Practice' organised in March 2023 at the Design Academy of Eindhoven.   
+              The archive was launched to gather resources from the workshop 'Rituals in the Cartographic Practice' organised in March 2023 at the Design Academy of Eindhoven.<br />The archive is dedicated to the territories belonging to Original Peoples who re-exist epistemic racism. 
             </Typography>
             <Typography id="modal-modal-description" sx={{ mt: 2 }}>
             </Typography>
