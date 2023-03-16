@@ -57,10 +57,10 @@ export default function About() {
               Cartography is mainly a social process. No amount of high-resolution mapping can match the credibility and legitimacy of community-led /commons-oriented social mapping.
             </Typography>
             <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-              Assuming many ways of knowing and multiple systems of knowledge, cartographic making is a ritual that starts with a collective, political encounter.
+              Assuming many ways of knowing and multiple systems of knowledge, cartographic-making is a ritual that starts with a collective and political encounter.
             </Typography>
             <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-              The visual archive hosts social technology practices and participatory cartography from the Global South as an endogenous product of the multiple relationship between body-territory-language. It brings together traditions, organisational arrangements, local knowledge, the natural potential of the region, and its historical, economic, social and cultural reality.
+              The Visual Archive hosts social technology practices and participatory cartography from the Global South as an endogenous product of the multiple relationship between body-territory-language. It brings together customs, organisational arrangements, local knowledge, ecology of the region, and its historical, economic, social and cultural reality.
             </Typography>
             <Typography id="modal-modal-title" variant="h6" component="h2">
               -
