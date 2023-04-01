@@ -25,9 +25,9 @@ Nevertheless, three books to reflect on the three typologies of the region under
 <br>
 <br>
 
-░░░░░░░░░░░░░░░░░ 
-### [THE VISUAL ARCHIVE](https://globe.vado.li "The visual archive") 
-░░░░░░░░░░░░░░░░░
+
+### [The visual archive](https://globe.vado.li "The visual archive") 
+The Visual Archive hosts social technology practices and participatory cartography from the Global South as an endogenous product of the multiple relationship between body-territory-language. It brings together customs, organisational arrangements, local knowledge, ecology of the region, and its historical, economic, social and cultural reality <br> <https://globe.vado.li> 
 
 
 <br>
@@ -44,6 +44,13 @@ Generations of vision and visual inheritance tied to place-name stories <br> <ht
 ### [Mapping the empty space](https://emptyspace.vado.li "Mapping the empty space") 
 MAPPING THE EMPTY SPACE <br> <https://emptyspace.vado.li>
 
+#### Mapping the Empty Space exercise booklet in .pdf format (download starts immediately)
+
+  * 🧊 [Antarctica](https://antarctica.vado.li "Antarctica") 
+
+  * 🏜️ [Desert](https://arid.vado.li "Desert")
+
+  * 🌿 [Forest](https://forest.vado.li "Forest") 
 
 ### [Mapeo](https://mapeo.vado.li "Mapeo") 
 Mapping in the empty space, where the internet connection does not penetrate <br> <https://mapeo.vado.li>
