@@ -171,6 +171,7 @@ function App() {
           >
 
             <div className='card'>
+
               <Typography id="modal-modal-title" variant="h6" component="h2">
                 <div className="signL" style={{ borderColor: popupInfo.color }} >
                   {popupInfo.sign1L} <br />
@@ -178,26 +179,21 @@ function App() {
                   {popupInfo.sign3L} <br />
                   <div style={{ lineHeight: 0.9 }} dangerouslySetInnerHTML={{ __html: popupInfo.category }} />
                 </div>
-                {/* {popupInfo.city}, {popupInfo.state} |{' '}
-                <a
-                  target="_new"
-                  href={`http://en.wikipedia.org/w/index.php?title=Special:Search&search=${popupInfo.city}, ${popupInfo.state}`}
-                >
-                  Wikipedia
-                </a> */}
               </Typography>
+
               <div className="cardTitle">
                 <div dangerouslySetInnerHTML={{ __html: popupInfo.city }} /> <br />
                 <Divider light />
                 <div className="cardsubTitle" >{popupInfo.state}</div>
               </div>
+
               <div>
                 <img style={{ position: "relative", top: "20px", bottom: "20px" }} width="100%" src={popupInfo.imageCover} />
-                {/* <div className="cardContent" dangerouslySetInnerHTML={{ __html: popupInfo.description }} /> */}
                 <img style={{ position: "relative", top: "20px", bottom: "20px" }} width="100%" src={popupInfo.image} />
+                <div className="infoContent" style={{ position: "relative", top: "10px" }}>SOURCE : <span dangerouslySetInnerHTML={{ __html: popupInfo.description }} /></div>
               </div>
 
-              <iframe controls width={"99%"} height={popupInfo.ratioCover} src={popupInfo.videoCover} frameBorder="0" allow=" encrypted-media; picture-in-picture" allowFullScreen />
+              <iframe controls width={"99%"} style={{ position: "relative", top: "10px" }} height={popupInfo.ratioCover} src={popupInfo.videoCover} frameBorder="0" allow=" encrypted-media; picture-in-picture" allowFullScreen />
 
               <Divider light />
               <div className="infoContent">LANGUAGE : {popupInfo.language}</div>
