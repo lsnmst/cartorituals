@@ -350,5 +350,27 @@
         "deliverables":"<ul><li><a href=\"https://biblio.juridicas.unam.mx/bjv/detalle-libro/6160-los-nahuas-y-el-libro-de-los-guardianes-y-gobernadores-de-cuauhtinchan-1519-1640-edicion-facsimilar\" target=\"_blank\">Los nahuas y el Libro de los guardianes y gobernadores de Cuauhtinchan (1519-1640). Cuauhtinchan en la historia</a></li></ul>",
         "latitude": 18.95496435336044,  
         "longitude": -98.0153505220746
+    },
+    {
+        "city": "Down on paper by community members under the guidance of the community chiefs. Ready for digitalisation",
+        "state": "Naramam, West Pokot county, Kenya",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1QVUuw7lIsmhHUnboQ5R1TG4tgKlB7XeR",
+        "image": "https://drive.google.com/uc?export=view&id=1ooqf75vtseCNeHewwIAWX73rU8MHTwhS",
+        "description": "Naramum Women",
+        "language": "Pokoot, English",
+        "scale": "10^3", 
+        "participationLevel":"Community controls the process",
+        "right":"Naramum Women, Forest Peoples Programme", 
+        "deliverables":"-",
+        "latitude": 1.407219652353632, 
+        "longitude": 35.136203073480104
     }
 ]
