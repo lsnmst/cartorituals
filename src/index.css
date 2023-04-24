@@ -281,6 +281,20 @@ a:visited {
   line-height: 1.25em !important;
   text-transform: uppercase !important;
 }
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
+#modal-modal-footer {
+  font-family: 'Cutive Mono', monospace !important;
+  margin-top: 5em;
+  font-weight: 900 !important;
+  line-height: 1.25em !important;
+  font-size: 0.8em;
+  cursor: help !important;
+  text-align: center !important;
+}
+#modal-modal-footer a {
+  text-decoration: none !important; 
+  cursor: help !important;
+}
 p.MuiTypography-body1 {
   font-family: 'Space Mono', monospace !important;
   font-weight: 800;

@@ -108,5 +108,27 @@
         "deliverables":"<ul><li><a href=\"https://bibliotecadigital.univalle.edu.co/bitstream/handle/10893/17192/CB-0592507.pdf?sequence=1\" target=\"_blank\">Trenzando el territorio: cuerpos, mapas y resistencias en San Basilio de Palenque</a></li></ul>",
         "latitude": 10.10532845000001, 
         "longitude": -75.19756974160104 
+    },
+    {
+        "city": "The use of traditional Kolam கோலம் decorative art to understand the local landuse pattern of mangroves",
+        "state": "Kollukkadu, Velivayal, Somanathanpattinam, Ganesapuram, Vallavanpattinam and Manthiripattinam, Tamil Nadu, India",
+        "sign1L": "󶜡 󱸲",
+        "sign2L": "󻸥 󷈅",
+        "sign3L": null,
+        "color": "#0fa893",
+        "category": "contrivance",
+        "videoCover": "https://www.youtube.com/embed/Xn3RmnzUXk4",
+        "ratioCover": "250",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1FXX9kUOL-rsCgdWwygyUZ9Zc5bocIXHz",
+        "image": "https://drive.google.com/uc?export=view&id=1pGzOhSrJ9Qw_P2vWY5PoNd9YUkUDDmvG",
+        "description": "OMCAR Foundation",
+        "language": "Tamil, English",
+        "scale": "10^6", 
+        "participationLevel":"The community has delegated power to design",
+        "right":" ", 
+        "deliverables":"<ul><li></li></ul>",
+        "latitude": 10.28694273524673,  
+        "longitude": 79.34941780496816
     }
 ]

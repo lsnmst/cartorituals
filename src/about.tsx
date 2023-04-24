@@ -70,6 +70,9 @@ export default function About() {
             </Typography>
             <Typography id="modal-modal-description" sx={{ mt: 2 }}>
             </Typography>
+            <Typography id="modal-modal-footer" sx={{ mt: 2 }}>
+              <a href="mailto:hello@alessandromusetta.com?subject=Rituals in the cartographic practice / info or add points">✉ information and to add points</a>
+            </Typography>
           </Box>
         </Fade>
       </Modal>
