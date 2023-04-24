@@ -438,5 +438,27 @@
         "deliverables":"-",
         "latitude": -1.31143363768886,  
         "longitude": 36.79313048629187
+    },
+    {
+        "city": "Designing the transect, recognising the territory by different altitudinal levels and understanding the difference in ecosystems",
+        "state": "Comunidad de Nopalera del Rosario, Oaxaca, Mexico",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1xBaDwxM4_NnME6rPbAeAyZcMNEY9PA3o",
+        "image": "",
+        "description": "",
+        "language": "Rizi, Spanish",
+        "scale": "10^6", 
+        "participationLevel":"The community has delegated power to design",
+        "right":"unkwnow", 
+        "deliverables":"<ul><li>Comunidad de Nopalera, 2012. Plan de vida de mi comunidad. Nopalera del Rosario, La Chinantla, Oaxaca, Comisariado de Bienes Comunales, Anima Mundi AC y Altépetl AC</li><li>Comunidad de Nopalera, 2012. Ua kia nang Ku mui lang. Territorio Biocultural Chinanteco. Anima, Mundi, Global diversity Foundation, Red de Etnoecología y patrimonio Biocultural y Altépetl desarrollo comunitario productivo y ambiental AC</li></ul>",
+        "latitude": 17.700054643495374, 
+        "longitude": -96.46030479473721 
     }
 ] 
