@@ -71,7 +71,7 @@ export default function About() {
             <Typography id="modal-modal-description" sx={{ mt: 2 }}>
             </Typography>
             <Typography id="modal-modal-footer" sx={{ mt: 2 }}>
-              <a href="mailto:hello@alessandromusetta.com?subject=Rituals in the cartographic practice / info or add points">✉ information and to add points</a>
+              <a href="https://ee.humanitarianresponse.info/x/iAdJUZ2L">✉ information and to suggest points</a>
             </Typography>
           </Box>
         </Fade>
