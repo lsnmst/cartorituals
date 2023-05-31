@@ -548,5 +548,27 @@
         "deliverables": "<ul><li><a href=\"https://www.cigiden.cl/conversatorio-mapeo-comunitario-y-taller-de-riesgo-aluvionar-en-macrocampamento-en-antofagasta/\">Conversatorio, mapeo comunitario y taller de riesgo aluvionar en macrocampamento en Antofagasta</a></li></ul>",
         "latitude": -23.602110834586902, 
         "longitude": -70.37315297216286
+    },
+    {
+        "city": "Who defecates here? A total approach to sanitation",
+        "state": "Nandivalasa village, Champaputtu, Andhra Pradesh, India",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1kqLr6Qsbl3a3f9gWoMeR1df3JYVRqE-Y",
+        "image": "https://drive.google.com/uc?export=view&id=1NYvYO6p0TrmGRK0dlLsUi5G0Ko4EDd8t",
+        "description": "Community Led Total Sanitation Programme in Nandivalasa by Visakha Jilla Nava Nirmana Samithi (VJNNS)",
+        "language": "Telugu, Urdu, English",
+        "scale": "10^3",
+        "participationLevel": "Community controls the process",
+        "right": "unkwnow",
+        "deliverables": "<ul><li><a href=\"https://vjnns.org/gfwss-process/\">VJNNS' community-led total sanitation and total Gravity fed water supply system</a></li></ul>",
+        "latitude": 18.255827332135006, 
+        "longitude": 82.8113167114979 
     }
 ]
