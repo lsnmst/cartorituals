@@ -438,5 +438,27 @@
         "deliverables": null,
         "latitude": 23.054414430415203, 
         "longitude": 87.38146214865849
+    },
+    {
+        "city": "Comparing the mental maps of slum inhabitants in Freetown",
+        "state": "Cockle bay, Freetown, Sierra Leone",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1XZnRnKYhdWWNOgtecfE3La0m85ExCVte",  
+        "image": "https://drive.google.com/uc?export=view&id=1Si4IVgpj08c7Z9Z0PSW87A3-hhaD-Cta",
+        "description": "Samuel Saidu, University of Sierra Leone, ARISE Consortium",
+        "language": "Krio, English",
+        "scale": "10^3",
+        "participationLevel": "The community has delegated power to design",
+        "right": "unkwnow",
+        "deliverables": "<ul><li><a href=\"https://www.ariseconsortium.org/mapping-informal-settlements-in-sierra-leone-researchers-and-co-researchers-experiences-in-mapping-urban-spaces/\" target=\"_blank\">Mapping informal settlements in Sierra Leone: Researchers and co-researchers experiences in mapping urban spaces</a></li></ul>",
+        "latitude": 8.488388681246372, 
+        "longitude": -13.271177774783357
     }
 ]

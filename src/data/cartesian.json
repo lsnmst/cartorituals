@@ -614,5 +614,27 @@
         "deliverables": null,
         "latitude": 29.143068288727562, 
         "longitude": 81.82045329880138
+    },
+    {
+        "city": "Unravelling the social structure of the village to ensure solid and liquid waste management",
+        "state": "Krishnajigudem కృష్ణాజీగూడెం, Telangana, India",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1L_zw6f0bnmJ-RAnWHfCQHdNsnyPtsUqW", 
+        "image": "https://drive.google.com/uc?export=view&id=1xPnTXNIwKfBj510HfC3PpkpuqEPLtbJB",
+        "description": "Swachh Bharat Mission Gramin (SBM-G) Jangaon district",
+        "language": "Telegu, Hindi",
+        "scale": "10^3",
+        "participationLevel": "The community has delegated power to design",
+        "right": "unkwnow",
+        "deliverables": null,
+        "latitude": 17.881279233289234,  
+        "longitude": 79.29410107036196
     }
 ]
