@@ -460,5 +460,27 @@
         "deliverables": "<ul><li><a href=\"https://www.ariseconsortium.org/mapping-informal-settlements-in-sierra-leone-researchers-and-co-researchers-experiences-in-mapping-urban-spaces/\" target=\"_blank\">Mapping informal settlements in Sierra Leone: Researchers and co-researchers experiences in mapping urban spaces</a></li></ul>",
         "latitude": 8.488388681246372, 
         "longitude": -13.271177774783357
+    },
+    {
+        "city": "Cartographic exercises in the preservation of vanishing toponyms and fix erroneous toponyms",
+        "state": "Te Henua ʻEnana, Polynesia, Pacific Ocean",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=13SfEModKX95jleG_LMLwnoAMho2jYD_8",  
+        "image": "https://drive.google.com/uc?export=view&id=1L-rBFpc5bzOnB8qmQdeujrJ7dCEPeMyk",
+        "description": "P. Erhel Hatuuku, Participatory mapping workshops in Hanapaaoa - Hiva Oa. Palimma Programme: Fédération Culturelle Et Environnementale Des Marquises Motu Haka, Institut Pour La Recherche Et Le Développement",
+        "language": "Marquesan, French",
+        "scale": "10^6",
+        "participationLevel": "The community has delegated power to design",
+        "right": "unkwnow",
+        "deliverables": "<ul><li><a href=\"https://journals.openedition.org/ethnoecologie/2975\" target=\"_blank\">Pierre Ottino-Garanger and Marie-Noëlle Ottino-Garanger. Coastal toponymy in the Marquesas Islands, Fenua, ‘Enata/Henua ‘Enana, Eastern Polynesia (French Polynesia)</a></li></ul>",
+        "latitude": -9.427886241939932, 
+        "longitude": -140.07299898633096
     }
 ]

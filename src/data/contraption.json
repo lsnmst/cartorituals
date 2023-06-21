@@ -130,5 +130,27 @@
         "deliverables":"<ul><li></li></ul>",
         "latitude": 10.28694273524673,  
         "longitude": 79.34941780496816
+    },
+    {
+        "city": "Gemat. Name the stars to which the four main parts of the canoe point, using the Carolinian star compass",
+        "state": "Yap State, Central Caroline Islands, Micronesia, Pacific Ocean",
+        "sign1L": "󶜡 󱸲",
+        "sign2L": "󻸥 󷈅",
+        "sign3L": null,
+        "color": "#0fa893",
+        "category": "contrivance",
+        "videoCover": "https://www.youtube.com/embed/998TdnYB-R0",
+        "ratioCover": "250",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1ex1_STatHSkK-xo8Cl1_TC8VU80TUjhA",
+        "image": "https://drive.google.com/uc?export=view&id=1ltcZQ1Mn9he45PBSt-RPvbZX3jwkt-c4",
+        "description": "Ali Haleyalur, Paliuw Grand Master Navigator at Weriyeng school of navigation",
+        "language": "Lamotrek",
+        "scale": "∞", 
+        "participationLevel":"Community controls the process",
+        "right":" ", 
+        "deliverables":"<ul><li><a href=\"https://www.youtube.com/playlist?list=PL7c_0z1tMBDruMxRRoL5jdzhbSQnHqoOt\" target=\"_blank\">Carolinian Traditional Navigation Course Documentation</a></li><li><a href=\"https://press.uchicago.edu/books/HOC/HOC_V2_B3/HOC_VOLUME2_Book3_chapter13.pdf\" target=\"_blank\">Ben Finney. Nautical Cartography and Traditional Navigation in Oceania</a></li><li>NGO Pasifika Renaissance. Report on Carolinian Traditional Navigation Course Documentation, Yap State in the Federated States of Micronesia</li></ul>",
+        "latitude": 9.53952683923434,   
+        "longitude": 138.105326175456
     }
 ]
