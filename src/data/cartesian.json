@@ -636,5 +636,27 @@
         "deliverables": null,
         "latitude": 17.881279233289234,  
         "longitude": 79.29410107036196
+    },
+    {
+        "city": "Palestinian women in the Tel Rumeida area, expressing about social and political bitter reality",
+        "state": "Tel Rumeida (تل ارميدة), West Bank city of Hebron",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1xlb08fdRaaflOXKG5ilmXPSEZ1O1zdm3",
+        "image": " ",
+        "description": "Reham Jafari, Communications and Advocacy Officer at ActionAid-Palestine in Palestine",
+        "language": "Arabic, Palestinian Arabic",
+        "scale": "10^3",
+        "participationLevel": "The community has delegated power to design",
+        "right": "unkwnow",
+        "deliverables": "<ul><li><a href=\"https://palestine.actionaid.org/node/485\">النساء الفلسطينيات في منطقة تل ارميدة يرسمن الخرائط الاجتماعية والسياسية للتعبير عن الواقع المرير</a></li></ul>",
+        "latitude": 31.523244916857966, 
+        "longitude": 35.103774483649545   
     }
 ]
