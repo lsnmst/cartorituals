@@ -152,5 +152,27 @@
         "deliverables":"<ul><li><a href=\"https://journals.openedition.org/ethnoecologie/2947\" target=\"_blank\">Dominique Guillaud, Laure Emperaire, Brunna Crespi, Rosalia Soares, Amandine Pequignot and Jean-Christophe Galipaud. Between oil and tourism, the participative conservation of local heritage in East Timor. Example from Suai and Ataúro (districts of Covalima and Dili)</a></li></ul>",
         "latitude": -8.240375011989487,   
         "longitude": 125.55470671247406
+    },
+    {
+        "city": "Envisioning the Islamicate realm with al-Istakhri and the Kitāb al-Masālik wa-l-Mamālik (Book of Routes and Realms)",
+        "state": "خلیج پارس (Persian Sea)",
+        "sign1L": "󶷥 󱳓 󸗧",
+        "sign2L": "󸗳 󱲋 󶷥",
+        "sign3L": null,
+        "color": "#ae4059",
+        "category": "cosmology",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1HxTFEt_axqm900G5S-qmEKGjUmDvCg8T",
+        "image": null,
+        "description": "The Persian Sea in Ms. B. 334 (ca. 1460 CE, Pers.). Emerging from a fish’s mouth in the Encircling Ocean, a naked Jonah reaches towards the African shore, where the angel Gabriel is handing him clothing beneath a gourd. Moses is sitted in front of Mount Sinai in Rashīd al-Dīn’s Compendium and Muhammad in the same position being called to prophethood by the angel Gabriel in Ḥāfiẓ-i Abrū’s. A peacock in reference to Simurgh, guards the heroes Zāl and Rustam while living behind Mount Qāf.",
+        "language": "Persi",
+        "scale": "∞", 
+        "participationLevel": "",
+        "right": "Topkapı Sarayı Müzesi Kütüphanesi © Presidency of the Republic of Turkey, Directorate of National Palaces Administration", 
+        "deliverables":"<ul><li>Nadja Danilenko (2021). Picturing the Islamicate World.The Story of al-Iṣṭakhrī’s Book of Routes and Realms</li></ul>",
+        "latitude": 27.289587198597093, 
+        "longitude": 51.06081256959312
     }
 ]
