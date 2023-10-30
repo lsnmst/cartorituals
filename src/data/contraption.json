@@ -152,5 +152,27 @@
         "deliverables":"<ul><li><a href=\"https://www.youtube.com/playlist?list=PL7c_0z1tMBDruMxRRoL5jdzhbSQnHqoOt\" target=\"_blank\">Carolinian Traditional Navigation Course Documentation</a></li><li><a href=\"https://press.uchicago.edu/books/HOC/HOC_V2_B3/HOC_VOLUME2_Book3_chapter13.pdf\" target=\"_blank\">Ben Finney. Nautical Cartography and Traditional Navigation in Oceania</a></li><li>NGO Pasifika Renaissance. Report on Carolinian Traditional Navigation Course Documentation, Yap State in the Federated States of Micronesia</li></ul>",
         "latitude": 9.53952683923434,   
         "longitude": 138.105326175456
+    },
+    {
+        "city": "The encyclopaedic, labyrinthine and infinite maps of Arthur Bispo do Rosário",
+        "state": "Colônia Juliano Moreira, Jacarepaguá, Rio de Janeiro, Brazil",
+        "sign1L": "󶜡 󱸲",
+        "sign2L": "󻸥 󷈅",
+        "sign3L": null,
+        "color": "#0fa893",
+        "category": "contrivance",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://drive.google.com/uc?export=view&id=1RCufOTpzrYkpbua95wVPqHKOg1hjFomC",
+        "image": "https://drive.google.com/uc?export=view&id=1Nwui0enxuU3vi8HZtD0MIPzc0yn8WN3S",
+        "description": "Museu Bispo do Rosário Arte Contemporânea",
+        "language": "Portuguese",
+        "scale": "∞", 
+        "participationLevel":" ",
+        "right":" ", 
+        "deliverables":"",
+        "latitude": -22.933511606225327,   
+        "longitude": -43.39429800622389 
     }
 ]
