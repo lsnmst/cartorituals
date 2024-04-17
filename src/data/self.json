@@ -482,5 +482,27 @@
         "deliverables": "<ul><li><a href=\"https://journals.openedition.org/ethnoecologie/2975\" target=\"_blank\">Pierre Ottino-Garanger and Marie-Noëlle Ottino-Garanger. Coastal toponymy in the Marquesas Islands, Fenua, ‘Enata/Henua ‘Enana, Eastern Polynesia (French Polynesia)</a></li></ul>",
         "latitude": -9.427886241939932, 
         "longitude": -140.07299898633096
+    },
+    {
+        "city": "Rohingya genocide survivors' memory map",
+        "state": "Rakhine, Arakan",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/Rohingya.jpg",  
+        "image": null,
+        "description": "Rohingya painting exhibited at the Liberation War Museum in Dhaka, Bangladesh",
+        "language": "Rohingya",
+        "scale": "10^6",
+        "participationLevel": "The community has delegated power to design",
+        "right": "unkwnow",
+        "deliverables": null,
+        "latitude": 20.144444, 
+        "longitude": 92.896944
     }
 ]

@@ -174,5 +174,27 @@
         "deliverables":"<ul><li>Nadja Danilenko (2021). Picturing the Islamicate World.The Story of al-Iṣṭakhrī’s Book of Routes and Realms</li></ul>",
         "latitude": 27.289587198597093, 
         "longitude": 51.06081256959312
+    },
+    {
+        "city": "The four cosmological depictions represent the mortal world according to Jain philosophy",
+        "state": "राजस्थान",
+        "sign1L": "󶷥 󱳓 󸗧",
+        "sign2L": "󸗳 󱲋 󶷥",
+        "sign3L": null,
+        "color": "#ae4059",
+        "category": "cosmology",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/rajasthan.jpg",
+        "image": null,
+        "description": " In Jain texts the universe is divided into three worlds – the upper occupied by the gods, the middle by mortals and the lower belonging to the damned. The most significant is the middle world, manushya-loka (world of the mortals), where liberation from the chain of rebirth is possible and where the Jinas (of saints and devotees) are born. Paintings of the phenomenal world therefore have remained popular in the jain tradition and survive from the fourteenth century through to the present day.",
+        "language": "Rajasthani",
+        "scale": "∞", 
+        "participationLevel": "",
+        "right": "Cosmic Map of the Mortal World as Two and a Half Continents_ Rajasthan, 18th Century.Title (Original): Adhaidvipa Pata.", 
+        "deliverables":"<ul><li><a href=\"https://artsandculture.google.com/asset/cosmic-map-of-the-mortal-world-as-two-and-a-half-continents-rajasthan-18th-century/pgGHxSbOH5o9Rg\" target=\"_blank\">Cosmic Map of the Mortal World as Two and a Half Continents_ Rajasthan, 18th Century.</a></li></ul>",
+        "latitude": 26.926, 
+        "longitude": 75.8235
     }
 ]
