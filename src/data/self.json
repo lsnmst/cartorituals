@@ -504,5 +504,27 @@
         "deliverables": null,
         "latitude": 20.144444, 
         "longitude": 92.896944
+    },
+    {
+        "city": "Creative methods to preserve flora and fauna in indigenous regions",
+        "state": "Capaq Hancco, Ayaviri, Peru",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/capaqhancco.jpg",  
+        "image": "https://www.alessandromusetta.com/cloud/cartorituals/capaqhancco-b.jpg",
+        "description": "<a href=\"https://www.creativeactioninstitute.org/creative-advocacy\" target=\"_blank\"> Creative Action Institute</a>, Cultural Survival",
+        "language": "Spanish, Quechua",
+        "scale": "10^3",
+        "participationLevel": "The community has delegated power to design",
+        "right": "unkwnow",
+        "deliverables": null,
+        "latitude": -14.87848, 
+        "longitude": -70.58423 
     }
 ]
