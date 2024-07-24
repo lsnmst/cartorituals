@@ -658,5 +658,27 @@
         "deliverables": "<ul><li><a href=\"https://palestine.actionaid.org/node/485\">النساء الفلسطينيات في منطقة تل ارميدة يرسمن الخرائط الاجتماعية والسياسية للتعبير عن الواقع المرير</a></li></ul>",
         "latitude": 31.523244916857966, 
         "longitude": 35.103774483649545   
+    },
+    {
+        "city": "Representing Central America on the move",
+        "state": "Centroamérica",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/centroamerica.jpg",
+        "image": " ",
+        "description": "Gabriela Mariana Fenner Sánchez, Mir Rodríguez Lombardo",
+        "language": "Spanish",
+        "scale": "10^7",
+        "participationLevel": "Community receives information",
+        "right": "unkwnow",
+        "deliverables": "<ul><li><a href=\"https://www.revistadelauniversidad.mx/articles/04ac52ae-87f9-4094-b700-7ba3f61be79e/centroamerica-se-mueve\">Gabriela Fenner y Mir Rodríguez Lombardo / Colectiva Cartográfica de los Sures Globales, Centroamérica se mueve</a></li></ul>",
+        "latitude": 14.901186, 
+        "longitude": -86.367883
     }
 ]
