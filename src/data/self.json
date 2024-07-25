@@ -526,5 +526,27 @@
         "deliverables": null,
         "latitude": -14.87848, 
         "longitude": -70.58423 
+    },
+    {
+        "city": "Histories and memories of a territory re-told by children",
+        "state": "Comunidade Quilombola de Castainho, Garanhuns, Pernambuco, Brazil",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/Castainho.jpg",  
+        "image": " ",
+        "description": "Jaqueline de Oliveira e Silva, Festival de Inverno de Castainho",
+        "language": "Brazilian Portuguese",
+        "scale": "10^3",
+        "participationLevel": "Community controls the process",
+        "right": "unkwnow",
+        "deliverables": "<ul><li><a href=\"https://repositorio.ufpe.br/bitstream/123456789/12019/1/DISSERTA%c3%87%c3%83O%20Jaqueline%20de%20Oliveira%20e%20Silva.pdf\">Jaqueline de Oliveira e Silva, QUILOMBO, CULTURA E POLÍTICA: uma etnografia das políticas culturais na comunidade de Castainho, PE. </a></li></ul>",
+        "latitude": -8.924690, 
+        "longitude": -36.465570 
     }
 ]
