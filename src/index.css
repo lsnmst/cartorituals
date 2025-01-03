@@ -23,7 +23,7 @@ a:hover {
   color: hotpink;
 }
 a:visited {
-  color: rgb(102, 102, 102);
+  color: rgb(65, 65, 65);
 }
 
 ::-webkit-scrollbar-track {
@@ -285,12 +285,14 @@ a:visited {
 @import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
 #modal-modal-footer {
   font-family: 'Cutive Mono', monospace !important;
-  margin-top: 5em;
-  font-weight: 900 !important;
+  margin-top: 3em;
+  font-weight: 500 !important;
   line-height: 1.25em !important;
   font-size: 0.8em;
   cursor: help !important;
-  text-align: center !important;
+  border: solid 1px rgb(39, 38, 38);
+  padding: 4px;
+  border-radius: 3px;
 }
 #modal-modal-footer a {
   text-decoration: none !important; 
