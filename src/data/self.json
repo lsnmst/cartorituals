@@ -658,5 +658,27 @@
         "deliverables": "<ul><li><a href=\"https://journals.openedition.org/ethnoecologie/2461\">Mapping in the Oiapoque Indigenous Territories. Community appropriation for local land management</a></li></ul>",
         "latitude": 3.872923, 
         "longitude": -51.5366
+    },
+    {
+        "city": "Tibetan traditional knowledge and biodiversity conservation. Mapping in ethnobotany documentation of the Khawa Karpo",
+        "state": "ཁ་བ་དཀར་པོ། Khawa Karpo, Yunnan, China",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/salik.jpg",  
+        "image": null,
+        "description": "Jan Salick",
+        "language": "Tibetan, Chinese",
+        "scale": "10^3",
+        "participationLevel": "Community controls the process",
+        "right": "unkwnow",
+        "deliverables": "<ul><li><a href=\"https://archive.org/details/mobot31753003809628/page/24/mode/1up\">Khawa karpo :Tibetan traditional knowledge and biodiversity conservation</a></li></ul>",
+        "latitude": 28.2120, 
+        "longitude": 98.8572
     }
 ]
