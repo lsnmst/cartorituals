@@ -174,5 +174,27 @@
         "deliverables":"",
         "latitude": -22.933511606225327,   
         "longitude": -43.39429800622389 
+    },
+    {
+        "city": "The abstract signs of Nsibidi semasiography used to bring spatiality to stories",
+        "state": "Calabar, Cross River, Nigeria",
+        "sign1L": "󶜡 󱸲",
+        "sign2L": "󻸥 󷈅",
+        "sign3L": null,
+        "color": "#0fa893",
+        "category": "contrivance",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/nsibidi1.jpg",
+        "image": "https://www.alessandromusetta.com/cloud/cartorituals/nsibidi2.jpg",
+        "description": "Signes nsibidi, Talbot P. A., In Te Shadow of the Bush, 1917",
+        "language": "Nsibidi writing system",
+        "scale": "∞", 
+        "participationLevel":" ",
+        "right":" ", 
+        "deliverables":"Pierson, M. (2019). Étude typographique du système d’écriture nsibidi, des pictos-idéogrammes du Nigeria. Mémoire De Recherche, ANRT.",
+        "latitude": 5.152956523714874, 
+        "longitude": 8.346245085358916  
     }
 ]
