@@ -66,7 +66,7 @@ export default function About() {
               -
             </Typography>
             <Typography id="modal-modal-description" sx={{ mt: 2 }} style={{fontSize: "0.7em", fontWeight: 400}}> 
-              The archive was launched to gather resources from the workshop 'Rituals in the Cartographic Practice' organised in March 2023 at the Design Academy of Eindhoven.<br />The archive is dedicated to Indigenous peoples and ethnic minorities who re-exist epistemic racism.<br /><br />Database last update: 27<sup>th</sup> January 2025
+              The archive was launched to gather resources from the workshop 'Rituals in the Cartographic Practice' organised in March 2023 at the Design Academy of Eindhoven.<br />The archive is dedicated to Indigenous peoples and ethnic minorities who re-exist epistemic racism.<br /><br />Database last update: 28<sup>th</sup> January 2025
             </Typography>
             <Typography id="modal-modal-footer" sx={{ mt: 2 }}>
               <a href="https://ee.humanitarianresponse.info/x/iAdJUZ2L" target='blank'>✉ getting information and suggesting rituals</a>
