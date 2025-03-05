@@ -680,5 +680,27 @@
         "deliverables": "<ul><li><a href=\"https://archive.org/details/mobot31753003809628/page/24/mode/1up\">Khawa karpo :Tibetan traditional knowledge and biodiversity conservation</a></li></ul>",
         "latitude": 28.2120, 
         "longitude": 98.8572
+    },
+    {
+        "city": "Cartography as situated knowledge to enrich existing narratives",
+        "state": "आरे फॉरेस्ट, Aarey Forest, Mumbai, India",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/Aarey1.jpg",  
+        "image": "https://www.alessandromusetta.com/cloud/cartorituals/Aarey2.jpg",
+        "description": "Michael Leung",
+        "language": "English",
+        "scale": "10^3",
+        "participationLevel": "Autoethnography",
+        "right": "unkwnow",
+        "deliverables": "<ul><li><a href=\"https://books.openedition.org/obp/20628\">Solidarity Seeds : Situated Knowledges in Bishan Village, Wang Chau Village and Aarey Forest</a></li></ul>",
+        "latitude": 19.15434, 
+        "longitude": 72.87204
     }
 ]

@@ -788,7 +788,7 @@
         "participationLevel": "The community has delegated power to design",
         "right": "unkwnow",
         "deliverables": null,
-        "latitude": 0.558913, 
+        "latitude": 0.558913,
         "longitude": 9.316636
     },
     {
@@ -810,7 +810,7 @@
         "participationLevel": "The community has delegated power to design",
         "right": "unkwnow",
         "deliverables": "<ul><li><a href=\"https://www.lemonde.fr/afrique/article/2021/08/24/au-cameroun-la-cartographie-participative-puissant-outil-de-reconnaissance-des-droits-des-pygmees_6092215_3212.html\">Au Cameroun, la cartographie participative, « puissant outil » de reconnaissance des droits des Pygmées</a></li></ul>",
-        "latitude": 3.302999, 
+        "latitude": 3.302999,
         "longitude": 13.590105
     },
     {
@@ -832,7 +832,7 @@
         "participationLevel": "Community controls the process",
         "right": "unkwnow",
         "deliverables": "<ul><li><a href=\"https://vimeo.com/193380336\">Life on the move</a></li></ul>",
-        "latitude": 3.773350, 
+        "latitude": 3.773350,
         "longitude": 33.888202
     },
     {
@@ -854,7 +854,29 @@
         "participationLevel": "Community controls the process",
         "right": "unkwnow",
         "deliverables": "<ul><li><a href=\"https://sswm.info/ar/taxonomy/term/2648/participatory-mapping\">خطوات رسم خرائط البيانات المحلي</a></li></ul>",
-        "latitude": 26.505509, 
+        "latitude": 26.505509,
         "longitude": 27.657877
+    },
+    {
+        "city": "La Très Grande Maquette (the very large model) of Bukavu",
+        "state": "Bukavu, Sud Kivu, Democratic Republic of the Congo",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/maquette1.jpg",
+        "image": "https://www.alessandromusetta.com/cloud/cartorituals/maquette2.jpg",
+        "description": "Dag Boutsen, Carl Bourgeois, Ruben D’hont and Mac C. Mugumaoderha",
+        "language": "Kiswahili, French",
+        "scale": "10^3",
+        "participationLevel": "The community has delegated power to design",
+        "right": "unkwnow",
+        "deliverables": "<ul><li><a href=\"https://medialibrary.uantwerpen.be/files/2137/1b31a053-16fa-46d3-92f7-42cfd7b9a493.pdf\">La Très Grande Maquette (the very large model). The commitment of Bukavu’s young architects to the enlarging (of their) city</a></li></ul>",
+        "latitude": -2.50090, 
+        "longitude": 28.84863
     }
 ]
