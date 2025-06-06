@@ -138,7 +138,8 @@ function App() {
         initialViewState={{
           latitude: 0,
           longitude: -18,
-          zoom: 1.8
+          zoom: 1.8, 
+          bearing: 180, 
         }}
         projection={"globe"}
         mapStyle="mapbox://styles/comuni-dados/ck87kqz1v0hlt1iptdomrfl1y"
