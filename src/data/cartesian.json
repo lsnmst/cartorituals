@@ -1,5 +1,27 @@
 [
     {
+        "city": "Poison from the sky. Community-based monitoring of aerial pesticide spraying ",
+        "state": " Maranhão, Brasil",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/veleno.png",
+        "image": null,
+        "description": "<a href=\"https://www.rederama.org/\" target=\"_blank\">RAMA</a>, <a href=\"http://www.fetaema.org.br/\" target=\"_blank\">FETAEMA</a>, and LEPENG/UFMA",
+        "language": "Brazilian Portuguese",
+        "scale": "10^8",
+        "participationLevel": "The community/identity/marginality knows about the project's activation, has delegated the representativeness function to a body that has informed them of the outcomes",
+        "right": "Unknown",
+        "deliverables": "<ul><li><a href=\"https://www.rederama.org/post/janeiro-do-veneno-guerra-qu%C3%ADmica-no-maranh%C3%A3o-explode-com-142-comunidades-atingidas-em-apenas-30-dia\" target=\"_blank\">Janeiro do veneno: Guerra Química no Maranhão explode com 142 comunidades atingidas em apenas 30 dias, superando todo o ano de 2025</a></li></ul>",
+        "latitude": -3.3829640819951154, 
+        "longitude": -44.232020544945726
+    },
+    {
         "city": "Purple rivers and green mountains. The kingdom that crafted its map by combining Western representation and indigenous graphic conventions and languages",
         "state": "Foumban, Bamun Kingdom, Camerun",
         "sign1L": "󸣱    󸣡",
@@ -18,7 +40,7 @@
         "participationLevel": "Unknown",
         "right": "Unknown",
         "deliverables": "<ul><li><a href=\"https://bigthink.com/strange-maps/njoya-map-bamum/\" target=\"_blank\">How Njoya the Great put his African kingdom on the map</a></li><li><a href=\"https://www.lecfc.fr/new/articles/210-article-14.pdf\" target=\"_blank\">LA CARTOGRAPHIE DU ROI NJOYA (ROYAUME BAMOUN, OUEST CAMEROUN)</a></li><li><a href=\"https://www.tcj.com/ibrahim-njoya-a-comics-artist-in-colonial-era-cameroon/\" target=\"_blank\">Ibrahim Njoya: A Comics Artist in Colonial-Era Cameroon</a></li></ul>",
-        "latitude": 5.720784105978126, 
+        "latitude": 5.720784105978126,
         "longitude": 10.89556194413408
     },
     {
@@ -898,7 +920,7 @@
         "participationLevel": "The community/identity/marginality knows about the project's activation, has delegated the representativeness function to a body that has informed them of the outcomes",
         "right": "unkwnow",
         "deliverables": "<ul><li><a href=\"https://medialibrary.uantwerpen.be/files/2137/1b31a053-16fa-46d3-92f7-42cfd7b9a493.pdf\">La Très Grande Maquette (the very large model). The commitment of Bukavu’s young architects to the enlarging (of their) city</a></li></ul>",
-        "latitude": -2.50090, 
+        "latitude": -2.50090,
         "longitude": 28.84863
     }
 ]
