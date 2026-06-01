@@ -1,5 +1,27 @@
 [
     {
+        "city": "Social cartography as a tool for dialogue and accountability with institutions in the Upper Basin of the Cauca River",
+        "state": "Valle del Cauca, Colombia",
+        "sign1L": "󲇡 󶞑",
+        "sign2L": "󶇡 󳧑",
+        "sign3L": null,
+        "color": "#7e5f93",
+        "category": "collective<br />self-<br />determination",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/latoma1.png",
+        "image": "https://www.alessandromusetta.com/cloud/cartorituals/latoma2.png",
+        "description": "Irene Vélez Torres, Sandra Rátiva Gaona, Daniel Varela Corredor",
+        "language": "Spanish",
+        "scale": "10^6",
+        "participationLevel": "Co-design and development with community/identity/marginality in control of the process",
+        "right": "Unknown",
+        "deliverables": "<ul><li><a href=\"http://scielo.org.co/pdf/rcdg/v21n2/v21n2a05.pdf\" target=\"_blank\">Cartografía social como metodología participativa y colaborativa de investigación en el territorio afrodescendiente de la cuenca alta del río Cauca</a></li></ul>",
+        "latitude": 3.129766869361175, 
+        "longitude": -76.39428749124636
+    },
+    {
         "city": "The seat of <i>Aakadi</i>. Make public other-than-human agents in the map",
         "state": "Gadiguda గాడిగుడ, Ademeyon, Telangana, India",
         "sign1L": "󲇡 󶞑",
@@ -13,12 +35,12 @@
         "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/aakadi1.png",
         "image": "https://www.alessandromusetta.com/cloud/cartorituals/aakadi2.png",
         "description": "Gomathy K. N., Rao L.",
-        "language": "Telugu, Urdu",
+        "language": "Gondi, Telugu ",
         "scale": "10^4",
         "participationLevel": "Co-design and development with community/identity/marginality in control of the process",
         "right": "Unknown",
         "deliverables": "<ul><li><a href=\"https://journals.librarypublishing.arizona.edu/jpe/article/id/2371/download/pdf/\" target=\"_blank\">Symmetrical, non-sovereign cartography as a means for  conservation: insights from a participatory forest mapping exercise</a></li></ul>",
-        "latitude": 19.611764894452232, 
+        "latitude": 19.611764894452232,
         "longitude": 78.90828749167616
     },
     {
