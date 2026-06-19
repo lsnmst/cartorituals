@@ -1,5 +1,27 @@
 [
     {
+        "city": "<i>Imborrables</i>. Tours and derives through the memories of urban resistance",
+        "state": "Bogotá, Colombia",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/Imborrables1.jpg",
+        "image": "https://www.alessandromusetta.com/cloud/cartorituals/Imborrables2.jpg",
+        "description": "Fidel Mingorance, Erik Arellana Bautista. <a href=\"https://geoactivismo.org/\" target=\"_blank\">Geoactivismo</a><a href=\"https://hrev.org/\" target=\"_blank\">/HREV</a>",
+        "language": "Spanish",
+        "scale": "10^6",
+        "participationLevel": "Co-design and development with community/identity/marginality in control of the process",
+        "right": "Unknown",
+        "deliverables": "<ul><li><a href=\"https://geoactivismo.org/imborrables/\" target=\"_blank\">Imborrables. La memoria de las resistencias urbanas en disputa</a></li><li><a href=\"https://ddd.uab.cat/pub/tfg/2022/264232/MingoranceCruzFidel_TFG2022.pdf\" target=\"_blank\">De la calle al mapa y del mapa a la calle. Mapeos e intervenciones urbanas en lugares de memoria y resistencia de Bogotá</a></li></ul>",
+        "latitude": 4.571010617989618,
+        "longitude": -74.15549148235642
+    },
+    {
         "city": "Poison from the sky. Community-based monitoring of aerial pesticide spraying ",
         "state": " Maranhão, Brasil",
         "sign1L": "󸣱    󸣡",
@@ -18,7 +40,7 @@
         "participationLevel": "The community/identity/marginality knows about the project's activation, has delegated the representativeness function to a body that has informed them of the outcomes",
         "right": "Unknown",
         "deliverables": "<ul><li><a href=\"https://www.rederama.org/post/janeiro-do-veneno-guerra-qu%C3%ADmica-no-maranh%C3%A3o-explode-com-142-comunidades-atingidas-em-apenas-30-dia\" target=\"_blank\">Janeiro do veneno: Guerra Química no Maranhão explode com 142 comunidades atingidas em apenas 30 dias, superando todo o ano de 2025</a></li></ul>",
-        "latitude": -3.3829640819951154, 
+        "latitude": -3.3829640819951154,
         "longitude": -44.232020544945726
     },
     {
