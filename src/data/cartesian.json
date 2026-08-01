@@ -1,4 +1,26 @@
 [
+        {
+        "city": "Between the Utopias of Popular Power and the Terror of Repression: Cartographies of the Memory in Santiago de Chile",
+        "state": "Santiago de Chile, Chile",
+        "sign1L": "󸣱    󸣡",
+        "sign2L": "󵍙 󶉃 󵍑",
+        "sign3L": " 󻺅 ",
+        "color": "#e7d41e",
+        "category": "cartesian",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/cartografiasdelamemoria1.png",
+        "image": "https://www.alessandromusetta.com/cloud/cartorituals/cartografiasdelamemoria2.png",
+        "description": "<a href=\"https://cartografiasdelamemoria.cl/\" target=\"_blank\">Colectivo Cartografias de la Memoria (Rolando Durán, Danitza Valenzuela, Gabriel Mérida, Francisca Geisse, Vicente Ibarra, Camila Espejo, Alejandro Diaz, Francisco San Martin)</a>",
+        "language": "Spanish",
+        "scale": "10^6",
+        "participationLevel": "The community/identity/marginalization doesn't know about what has been done",
+        "right": "Unknown",
+        "deliverables": "<ul><li><a href=\"https://mapa.cartografiasdelamemoria.cl/\" target=\"_blank\">Archivo Interactivo Cartografías de la Memoria</a></li><li><a href=\"https://drive.google.com/file/d/1JSJIwb2T13-kHeuR6X0Waho_2SGStfEO/view\" target=\"_blank\">Cartografías de la memoria. Utopía y Terror en Santiago de Chile 1970-1976</a></li></ul>",
+        "latitude": -33.44300974093144, 
+        "longitude": -70.65384894349192
+    },
     {
         "city": "<i>Imborrables</i>. Tours and derives through the memories of urban resistance",
         "state": "Bogotá, Colombia",

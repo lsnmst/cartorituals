@@ -1,5 +1,27 @@
 [
     {
+        "city": "<i>Cartofonía</i> Mapping the landscape of the Chubut River through soundscapes",
+        "state": "Piedra Parada, Chubut, Argentina",
+        "sign1L": "󶜡 󱸲",
+        "sign2L": "󻸥 󷈅",
+        "sign3L": null,
+        "color": "#0fa893",
+        "category": "contrivance",
+        "videoCover": "https://www.youtube.com/embed/IlMyPWzHkJc?si=QEpWxHPdM9mjY859",
+        "ratioCover": "250",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/cartofonia-rio-chubut.jpg",
+        "image": null,
+        "description": "<a href=\"https://pablopaniagua.com.ar/\" target=\"_blank\">Pablo Paniagua</a>",
+        "language": "Spanish",
+        "scale": "10^6",
+        "participationLevel": "Self-representation/self-identification project",
+        "right": "unknown",
+        "deliverables": "<ul><li><a href=\"https://pablopaniagua.com.ar/2025/cartografia-sonora-rio-chubut-piedra-parada/\" target=\"_blank\">Cartografía Sonora, rio Chubut (Piedra Parada) - Pablo Paniagua</a></li></ul>",
+        "latitude": -42.656142,
+        "longitude": -70.1143015
+    },
+    {
         "city": "<i>Cuando las nubes eran de agua</i> Making tangible our relationship with an informational geography formed by electromagnetic waves",
         "state": "Mexico City, CDMX, Mexico",
         "sign1L": "󶜡 󱸲",
@@ -18,7 +40,7 @@
         "participationLevel": "unknown",
         "right": "unknown",
         "deliverables": "<ul><li><a href=\"https://medialabmx.org/leonardo/nubesyantenas.html\" target=\"_blank\">De nubes y antenas</a></li></ul>",
-        "latitude": 19.430910006503318, 
+        "latitude": 19.430910006503318,
         "longitude": -99.13909501137293
     },
     {
