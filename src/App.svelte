@@ -223,8 +223,14 @@
 
   let aboutOpen = $state(false);
 
+  const ABOUT_STORAGE_KEY = "cartorituals-about-seen";
+
   function closeAbout() {
     aboutOpen = false;
+
+    try {
+      localStorage.setItem(ABOUT_STORAGE_KEY, "true");
+    } catch {}
   }
 
   function openAbout() {
@@ -238,6 +244,12 @@
   }
 
   onMount(() => {
+    try {
+      aboutOpen = localStorage.getItem(ABOUT_STORAGE_KEY) !== "true";
+    } catch {
+      aboutOpen = true;
+    }
+
     if (!mapboxToken) {
       console.warn(
         "Mapbox token missing: set VITE_MAPBOX_ACCESS_TOKEN in .env.local",
@@ -248,7 +260,7 @@
       accessToken: mapboxToken,
       style: "mapbox://styles/comuni-dados/ck87kqz1v0hlt1iptdomrfl1y",
       center: [-18, 0],
-      zoom: isMobile ? 0.7 : 1.8,
+      zoom: isMobile ? 0.5 : 1.8,
       bearing: 180,
       pitch: 0,
       attributionControl: true,
@@ -419,12 +431,13 @@
 
         <p>
           <strong>
-            The Visual Archive hosts social technology practices and
-            participatory cartography from the Global South as an endogenous
-            product of the multiple relationship between
-            body-territory-language. It brings together customs, organisational
-            arrangements, local knowledge, ecology of the region, and its
-            historical, economic, social and cultural reality.
+            The Visual Archive of Rituals in the Cartographic Practice hosts
+            social technology practices and participatory cartography from the
+            pluriverse Global Mayority as an endogenous product of the multiple
+            relationship between body-territory-language. It brings together
+            customs, organisational arrangements, local knowledge, ecology of
+            the region, and its historical, economic, social and cultural
+            reality.
           </strong>
         </p>
 
