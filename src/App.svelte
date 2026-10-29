@@ -73,17 +73,15 @@
   const mediaBase = " ";
   const mapboxToken = import.meta.env.VITE_MAPBOX_ACCESS_TOKEN || "";
 
-  const slugify = (value, maxLength = 20) =>
+  const slugify = (value) =>
     value
       .normalize("NFD")
       .replace(/[\u0300-\u036f]/g, "")
       .toLowerCase()
       .replace(/[^a-z0-9]+/g, "-")
-      .replace(/^-+|-+$/g, "")
-      .slice(0, maxLength)
-      .replace(/-+$/g, "");
+      .replace(/^-|-$/g, "");
 
-  // Existing entries without an id receive a deterministic fallback.
+  // Existing entries without an id receive a deterministic fallback for this prototype.
   const getId = (place) => place.id || slugify(`${place.city}-${place.state}`);
 
   function shuffle(array) {
