@@ -471,7 +471,7 @@
           as inferior, irrational, folkloric, or irrelevant.
         </p>
 
-        <p class="about-update">Database last update: 19th June 2026</p>
+        <p class="about-update">Database last update: 9th November 2026</p>
 
         <a
           class="about-contact"

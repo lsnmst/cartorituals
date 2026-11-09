@@ -1,5 +1,27 @@
 [
     {
+        "city": "Dancing ",
+        "state": "Galápagos Islands, Ecuador",
+        "sign1L": "󶜡 󱸲",
+        "sign2L": "󻸥 󷈅",
+        "sign3L": null,
+        "color": "#0fa893",
+        "category": "contrivance",
+        "videoCover": null,
+        "ratioCover": "0",
+        "video": null,
+        "imageCover": "https://www.alessandromusetta.com/cloud/cartorituals/ribs1.png",
+        "image": "https://www.alessandromusetta.com/cloud/cartorituals/ribs2.png",
+        "description": "Chloe King, María José Barragán-Paladines, Andrea Muñoz Barriga, Chris Sandbrook",
+        "language": "Spanish",
+        "scale": "10^8",
+        "participationLevel": "The community/identity/marginality knows about the project's activation, has delegated the representativeness function to a body that has informed them of the outcomes",
+        "right": "unknown",
+        "deliverables": "<ul><li><a href=\"https://www.tandfonline.com/doi/pdf/10.1080/09669582.2026.2664637\" target=\"_blank\">Dancing with systems: participatory mapping for a paradigm shift beyond growth in the Galápagos Islands</a></li></ul>",
+        "latitude": 0,
+        "longitude": 0
+    },
+    {
         "city": "<i>Cartofonía</i> Mapping the landscape of the Chubut River through soundscapes",
         "state": "Piedra Parada, Chubut, Argentina",
         "sign1L": "󶜡 󱸲",
